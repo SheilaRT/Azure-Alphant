@@ -1,0 +1,1 @@
+var details=Array.from(document.querySelectorAll("details"));details.forEach(function(detail){detail.addEventListener("click",closeOthers.bind(null,detail));});function closeOthers(targetDetail){details.forEach(function(detail){if(detail!==targetDetail){detail.removeAttribute("open");}});}
