@@ -16,7 +16,7 @@ Actually, Azure Alphant doesn't know. Typing in a font name and submitting it fo
 ## Tile Format
 
 ### What information is shown on each tile?
-![Each tile displays the glyph, name, codepoint, HTML entity (hex), HTML entity (decimal), and C/C++/Java source code respectively](https://github.com/SheilaRT/blue-alphant/blob/master/tile.png)
+![Each tile displays the glyph, name, codepoint, HTML entity (hex), HTML entity (decimal), and C/C++/Java source code respectively](https://github.com/SheilaRT/Azure-Alphant/blob/master/tile.png)
 
 *The codepoint value is a minimum of 4 digits.
 
@@ -30,7 +30,7 @@ On your desktop, use the hotkeys **CTRL**+**+** (Windows) or **⌘ Command**+**+
 # Font Testing
 
 ### How do I choose a font to test?
-Enter the name of the font you wish to test in the font field (![Font field icon](https://github.com/SheilaRT/blue-alphant/blob/master/fontUI.png)____) at the top right corner of the page. Azure Alphant is able to test any working font installed on your device.
+Enter the name of the font you wish to test in the font field (![Font field icon](https://github.com/SheilaRT/Azure-Alphant/blob/master/fontUI.png)____) at the top right corner of the page. Azure Alphant is able to test any working font installed on your device.
 
 ### Why do I see boxes or just blank spaces instead of the characters I want?
 Either the character you want is a box or a spacing character, or the font you have chosen does not support those characters. This is what is meant by 'font support verification'. If the character information is positioned higher in the otherwise blank tile than it is in tiles with characters, the tile contains a non-graphical character, and is not meant to be visible. If your installed fonts do not support the characters you want, please, try downloading and installing another font to test as a possible fallback font for your project.
@@ -41,7 +41,7 @@ This is where [Noto](https://www.google.com/get/noto/) (a Google font) and other
 When you first open the extension, your browser will attempt to style all tiles with the font that is set as your default sans-serif font in your browser's settings. Characters that are not supported by the default font may, depending on your OS and browser, be styled with any fonts packaged with your OS. If a character is still not supported by any of the previously mentioned fonts, it will either not show at all, leaving a blank space in the tile, or it will show up as a broken character, often displayed as an empty box, or 'tofu' according to Google.
 
 ### I already know the font I'm testing doesn't support certain characters, so why do those characters still display for me?
-Your device or browser is using a default font as a fallback font to display the characters. An easy way to tell if the displayed character is using a default font instead of the font you chose, is to switch between the font you chose and no specified font at all (leave the font field (![Font field icon](https://github.com/SheilaRT/blue-alphant/blob/master/fontUI.png)____) blank and click test). Characters supported by your chosen font will change appearance; characters not supported by your chosen font will remain the same in appearance.
+Your device or browser is using a default font as a fallback font to display the characters. An easy way to tell if the displayed character is using a default font instead of the font you chose, is to switch between the font you chose and no specified font at all (leave the font field (![Font field icon](https://github.com/SheilaRT/Azure-Alphant/blob/master/fontUI.png)____) blank and click test). Characters supported by your chosen font will change appearance; characters not supported by your chosen font will remain the same in appearance.
 
 ***
 
@@ -114,4 +114,4 @@ To make your theme of choice always be the theme selected, simply open _custom.c
 Azure Alphant is merely an unofficial reference guide; new character requests should be sent to [The Unicode Consortium](http://www.unicode.org/).
 
 ### I can't find the answer to my question about Azure Alphant here. Where should I go to find it?
-[Send me a pull request on Github.](https://github.com/SheilaRT/Azure-Alphant) Chances are it will get answered there as a reply, and possibly be answered here once I've finished the next update.
+[Add an issue to this repo on GitHub.](https://github.com/SheilaRT/Azure-Alphant) Chances are it will get answered there as a reply, and possibly be answered here once I've finished the next update.
