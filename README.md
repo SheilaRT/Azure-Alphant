@@ -114,4 +114,4 @@ To make your theme of choice always be the theme selected, simply open _custom.c
 Azure Alphant is merely an unofficial reference guide; new character requests should be sent to [The Unicode Consortium](http://www.unicode.org/).
 
 ### I can't find the answer to my question about Azure Alphant here. Where should I go to find it?
-[Add an issue to this repo on GitHub.](https://github.com/SheilaRT/Azure-Alphant) Chances are it will get answered there as a reply, and possibly be answered here once I've finished the next update.
+[Add an issue to the Azure-Alphant repo on GitHub.](https://github.com/SheilaRT/Azure-Alphant) Chances are it will get answered there as a reply, and possibly be answered here once I've finished the next update.
