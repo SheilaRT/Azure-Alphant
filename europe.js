@@ -3912,7 +3912,7 @@ var codepoints = [
 {"g" : "\u{10CFC}", "n" : "OLD HUNGARIAN NUMBER TEN", "h" : "10CFC"},
 {"g" : "\u{10CFD}", "n" : "OLD HUNGARIAN NUMBER FIFTY", "h" : "10CFD"},
 {"g" : "\u{10CFE}", "n" : "OLD HUNGARIAN NUMBER ONE HUNDRED", "h" : "10CFE"},
-{"g" : "\u{10CFF}", "n" : "OLD HUNGARIAN NUMBER ONE THOUSAND", "h" : "10CFF"},
+{"g" : "\u{10CFF}", "n" : "OLD HUNGARIAN NUMBER ONE THOUSAND", "h" : "10CFF"}
 ];
       
   for (var i = 0; i < codepoints.length; i++) {
