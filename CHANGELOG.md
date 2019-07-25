@@ -14,6 +14,8 @@ All notable changes to this project will be documented in this file.
 - Added support for multiple browsers on multiple devices
 - Added one new character to 'Enclosed CJK Letters and Months', as per (Unicode Version 12.1)[http://www.unicode.org/charts/PDF/Unicode-12.1/]
 
+***
+
 #As 'Blue Alphant' (Chrome Extension)
 
 ##Update 3.0:
