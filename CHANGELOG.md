@@ -16,7 +16,7 @@ All notable changes to this project will be documented in this file.
 
 ***
 
-# As 'Blue Alphant' (Chrome Extension)
+## As 'Blue Alphant' (Chrome Extension)
 
 ### Update 3.0:
 - Updated existing writing systems for Unicode Version 12
