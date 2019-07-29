@@ -372,7 +372,7 @@ var codepoints = [
 {"g" : "\u{1FA6A}", "n" : "XIANGQI BLACK HORSE", "h" : "1FA6A"},
 {"g" : "\u{1FA6B}", "n" : "XIANGQI BLACK CHARIOT", "h" : "1FA6B"},
 {"g" : "\u{1FA6C}", "n" : "XIANGQI BLACK CANNON", "h" : "1FA6C"},
-{"g" : "\u{1FA6D}", "n" : "XIANGQI BLACK SOLDIER", "h" : "1FA6D"},
+{"g" : "\u{1FA6D}", "n" : "XIANGQI BLACK SOLDIER", "h" : "1FA6D"}
 ];
       
   for (var i = 0; i < codepoints.length; i++) {
