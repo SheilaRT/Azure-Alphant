@@ -1414,6 +1414,17 @@ var codepoints = [
 {"g" : "\uA829", "n" : "SYLOTI NAGRI POETRY MARK-2", "h" : "A829"},
 {"g" : "\uA82A", "n" : "SYLOTI NAGRI POETRY MARK-3", "h" : "A82A"},
 {"g" : "\uA82B", "n" : "SYLOTI NAGRI POETRY MARK-4", "h" : "A82B"},
+	
+{"g" : "\uA830", "n" : "NORTH INDIC FRACTION ONE QUARTER", "h" : "A830"},
+{"g" : "\uA831", "n" : "NORTH INDIC FRACTION ONE HALF", "h" : "A831"},
+{"g" : "\uA832", "n" : "NORTH INDIC FRACTION THREE QUARTERS", "h" : "A832"},
+{"g" : "\uA833", "n" : "NORTH INDIC FRACTION ONE SIXTEENTH", "h" : "A833"},
+{"g" : "\uA834", "n" : "NORTH INDIC FRACTION ONE EIGHTH", "h" : "A834"},
+{"g" : "\uA835", "n" : "NORTH INDIC FRACTION THREE SIXTEENTHS", "h" : "A835"},
+{"g" : "\uA836", "n" : "NORTH INDIC QUARTER MARK", "h" : "A836"},
+{"g" : "\uA837", "n" : "NORTH INDIC PLACEHOLDER MARK", "h" : "A837"},
+{"g" : "\uA838", "n" : "NORTH INDIC RUPEE MARK", "h" : "A838"},
+{"g" : "\uA839", "n" : "NORTH INDIC QUANTITY MARK", "h" : "A839"},
 
 {"g" : "\uA880", "n" : "SAURASHTRA SIGN ANUSVARA", "h" : "A880"},
 {"g" : "\uA881", "n" : "SAURASHTRA SIGN VISARGA", "h" : "A881"},
