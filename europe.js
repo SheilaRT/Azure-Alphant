@@ -2988,6 +2988,21 @@ var codepoints = [
 {"g" : "\u{1018C}", "n" : "GREEK SINUSOID SIGN", "h" : "1018C"},
 {"g" : "\u{1018D}", "n" : "GREEK INDICTION SIGN", "h" : "1018D"},
 {"g" : "\u{1018E}", "n" : "NOMISMA SIGN", "h" : "1018E"},
+	
+{"g" : "\u{10190}", "n" : "ROMAN SEXTANS SIGN", "h" : "10190"},
+{"g" : "\u{10191}", "n" : "ROMAN UNCIA SIGN", "h" : "10191"},
+{"g" : "\u{10192}", "n" : "ROMAN SEMUNCIA SIGN", "h" : "10192"},
+{"g" : "\u{10193}", "n" : "ROMAN SEXTULA SIGN", "h" : "10193"},
+{"g" : "\u{10194}", "n" : "ROMAN DIMIDIA SEXTULA SIGN", "h" : "10194"},
+{"g" : "\u{10195}", "n" : "ROMAN SILIQUA SIGN", "h" : "10195"},
+{"g" : "\u{10196}", "n" : "ROMAN DENARIUS SIGN", "h" : "10196"},
+{"g" : "\u{10197}", "n" : "ROMAN QUINARIUS SIGN", "h" : "10197"},
+{"g" : "\u{10198}", "n" : "ROMAN SESTERTIUS SIGN", "h" : "10198"},
+{"g" : "\u{10199}", "n" : "ROMAN DUPONDIUS SIGN", "h" : "10199"},
+{"g" : "\u{1019A}", "n" : "ROMAN AS SIGN", "h" : "1019A"},
+{"g" : "\u{1019B}", "n" : "ROMAN CENTURIAL SIGN", "h" : "1019B"},
+
+{"g" : "\u{101A0}", "n" : "GREEK SYMBOL TAU RHO", "h" : "101A0"},
 
 {"g" : "\u{101D0}", "n" : "PHAISTOS DISC SIGN PEDESTRIAN", "h" : "101D0"},
 {"g" : "\u{101D1}", "n" : "PHAISTOS DISC SIGN PLUMED HEAD", "h" : "101D1"},
