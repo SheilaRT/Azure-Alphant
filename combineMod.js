@@ -28,7 +28,7 @@ var codepoints = [
 {"g" : "\u02C4", "n" : "MODIFIER LETTER UP ARROWHEAD", "h" : "02C4" },
 {"g" : "\u02C5", "n" : "MODIFIER LETTER DOWN ARROWHEAD", "h" : "02C5" },
 {"g" : "\u02C6", "n" : "MODIFIER LETTER CIRCUMFLEX ACCENT", "h" : "02C6" },
-
+{"g" : "\u02C7", "n" : "CARON", "h" : "02C7" },
 {"g" : "\u02C8", "n" : "MODIFIER LETTER VERTICAL LINE", "h" : "02C8" },
 {"g" : "\u02C9", "n" : "MODIFIER LETTER MACRON", "h" : "02C9" },
 {"g" : "\u02CA", "n" : "MODIFIER LETTER ACUTE ACCENT", "h" : "02CA" },
@@ -45,7 +45,12 @@ var codepoints = [
 {"g" : "\u02D5", "n" : "MODIFIER LETTER DOWN TACK", "h" : "02D5" },
 {"g" : "\u02D6", "n" : "MODIFIER LETTER PLUS SIGN", "h" : "02D6" },
 {"g" : "\u02D7", "n" : "MODIFIER LETTER MINUS SIGN", "h" : "02D7" },
-
+{"g" : "\u02D8", "n" : "BREVE", "h" : "02D8" },
+{"g" : "\u02D9", "n" : "DOT ABOVE", "h" : "02D9" },
+{"g" : "\u02DA", "n" : "RING ABOVE", "h" : "02DA" },
+{"g" : "\u02DB", "n" : "OGONEK", "h" : "02DB" },
+{"g" : "\u02DC", "n" : "SMALL TILDE", "h" : "02DC" },
+{"g" : "\u02DD", "n" : "DOUBLE ACUTE ACCENT", "h" : "02DD" },
 {"g" : "\u02DE", "n" : "MODIFIER LETTER RHOTIC HOOK", "h" : "02DE" },
 {"g" : "\u02DF", "n" : "MODIFIER LETTER CROSS ACCENT", "h" : "02DF" },
 {"g" : "\u02E0", "n" : "MODIFIER LETTER SMALL GAMMA", "h" : "02E0" },
