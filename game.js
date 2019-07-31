@@ -41,6 +41,17 @@ var codepoints = [
 {"g" : "\u26C1", "n" : "WHITE DRAUGHTS KING", "h" : "26C1" },
 {"g" : "\u26C2", "n" : "BLACK DRAUGHTS MAN", "h" : "26C2" },
 {"g" : "\u26C3", "n" : "BLACK DRAUGHTS KING", "h" : "26C3" },
+	
+{"g" : "\u2BBA", "n" : "OVERLAPPING WHITE SQUARES", "h" : "2BBA" },
+{"g" : "\u2BBB", "n" : "OVERLAPPING WHITE AND BLACK SQUARES", "h" : "2BBB" },
+{"g" : "\u2BBC", "n" : "OVERLAPPING BLACK SQUARES", "h" : "2BBC" },
+	
+{"g" : "\u2BF9", "n" : "EQUALS SIGN WITH INFINITY BELOW", "h" : "2BF9" },
+{"g" : "\u2BFA", "n" : "UNITED SYMBOL", "h" : "2BFA" },
+{"g" : "\u2BFB", "n" : "SEPARATED SYMBOL", "h" : "2BFB" },
+{"g" : "\u2BFC", "n" : "DOUBLED SYMBOL", "h" : "2BFC" },
+{"g" : "\u2BFD", "n" : "PASSED SYMBOL", "h" : "2BFD" },
+{"g" : "\u2BFE", "n" : "REVERSED RIGHT ANGLE", "h" : "2BFE" },
 
 {"g" : "\u{1F000}", "n" : "MAHJONG TILE EAST WIND", "h" : "1F000"},
 {"g" : "\u{1F001}", "n" : "MAHJONG TILE SOUTH WIND", "h" : "1F001"},
