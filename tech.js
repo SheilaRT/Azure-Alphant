@@ -126,10 +126,7 @@ var codepoints = [
 {"g" : "\u2305", "n" : "PROJECTIVE", "h" : "2305" },
 {"g" : "\u2306", "n" : "PERSPECTIVE", "h" : "2306" },
 {"g" : "\u2307", "n" : "WAVY LINE", "h" : "2307" },
-{"g" : "\u2308", "n" : "LEFT CEILING", "h" : "2308" },
-{"g" : "\u2309", "n" : "RIGHT CEILING", "h" : "2309" },
-{"g" : "\u230A", "n" : "LEFT FLOOR", "h" : "230A" },
-{"g" : "\u230B", "n" : "RIGHT FLOOR", "h" : "230B" },
+
 {"g" : "\u230C", "n" : "BOTTOM RIGHT CROP", "h" : "230C" },
 {"g" : "\u230D", "n" : "BOTTOM LEFT CROP", "h" : "230D" },
 {"g" : "\u230E", "n" : "TOP RIGHT CROP", "h" : "230E" },
