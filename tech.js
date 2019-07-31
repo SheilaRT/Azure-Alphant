@@ -71,6 +71,9 @@ var codepoints = [
 {"g" : "\u009D", "n" : "OPERATING SYSTEM COMMAND", "h" : "009D" },
 {"g" : "\u009E", "n" : "PRIVACY MESSAGE", "h" : "009E" },
 {"g" : "\u009F", "n" : "APPLICATION PROGRAM COMMAND", "h" : "009F" },
+{"g" : "\u00A0", "n" : "NO-BREAK SPACE", "h" : "00A0" },
+	
+{"g" : "\u00AD", "n" : "SOFT HYPHEN", "h" : "00AD" },
 
 {"g" : "\u2000", "n" : "EN QUAD", "h" : "2000" },
 {"g" : "\u2001", "n" : "EM QUAD", "h" : "2001" },
