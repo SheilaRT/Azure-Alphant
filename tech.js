@@ -37,6 +37,7 @@ var codepoints = [
 {"g" : "\u001D", "n" : "INFORMATION SEPARATOR THREE", "h" : "001D" },
 {"g" : "\u001E", "n" : "INFORMATION SEPARATOR TWO", "h" : "001E" },
 {"g" : "\u001F", "n" : "INFORMATION SEPARATOR ONE", "h" : "001F" },
+{"g" : "\u0020", "n" : "SPACE", "h" : "0020" },
 
 {"g" : "\u0080", "n" : "<control>", "h" : "0080" },
 {"g" : "\u0081", "n" : "<control>", "h" : "0081" },
