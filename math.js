@@ -921,7 +921,7 @@ var codepoints = [
 {"g" : "\u2791", "n" : "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT EIGHT", "h" : "2791" },
 {"g" : "\u2792", "n" : "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT NINE", "h" : "2792" },
 {"g" : "\u2793", "n" : "DINGBAT NEGATIVE CIRCLED SANS-SERIF NUMBER TEN", "h" : "2793" },
-
+{"g" : "\u2794", "n" : "HEAVY WIDE-HEADED RIGHTWARDS ARROW", "h" : "2794" },
 {"g" : "\u2795", "n" : "HEAVY PLUS SIGN", "h" : "2795" },
 {"g" : "\u2796", "n" : "HEAVY MINUS SIGN", "h" : "2796" },
 {"g" : "\u2797", "n" : "HEAVY DIVISION SIGN", "h" : "2797" },
