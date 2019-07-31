@@ -2077,6 +2077,20 @@ var codepoints = [
 {"g" : "\u2189", "n" : "VULGAR FRACTION ZERO THIRDS", "h" : "2189" },
 {"g" : "\u218A", "n" : "TURNED DIGIT TWO", "h" : "218A" },
 {"g" : "\u218B", "n" : "TURNED DIGIT THREE", "h" : "218B" },
+	
+{"g" : "\u2B4E", "n" : "SHORT SLANTED NORTH ARROW", "h" : "2B4E" },
+{"g" : "\u2B4F", "n" : "SHORT BACKSLANTED SOUTH ARROW", "h" : "2B4F" },
+
+{"g" : "\u2B56", "n" : "HEAVY OVAL WITH OVAL INSIDE", "h" : "2B56" },
+{"g" : "\u2B57", "n" : "HEAVY CIRCLE WITH CIRCLE INSIDE", "h" : "2B57" },
+{"g" : "\u2B58", "n" : "HEAVY CIRCLE", "h" : "2B58" },
+{"g" : "\u2B59", "n" : "HEAVY CIRCLED SALTIRE", "h" : "2B59" },
+{"g" : "\u2B5A", "n" : "SLANTED NORTH ARROW WITH HOOKED HEAD", "h" : "2B5A" },
+{"g" : "\u2B5B", "n" : "BACKSLANTED SOUTH ARROW WITH HOOKED TAIL", "h" : "2B5B" },
+{"g" : "\u2B5C", "n" : "SLANTED NORTH ARROW WITH HORIZONTAL TAIL", "h" : "2B5C" },
+{"g" : "\u2B5D", "n" : "BACKSLANTED SOUTH ARROW WITH HORIZONTAL TAIL", "h" : "2B5D" },
+{"g" : "\u2B5E", "n" : "BENT ARROW POINTING DOWNWARDS THEN NORTH EAST", "h" : "2B5E" },
+{"g" : "\u2B5F", "n" : "SHORT BENT ARROW POINTING DOWNWARDS THEN NORTH EAST", "h" : "2B5F" },
 
 {"g" : "\u2C00", "n" : "GLAGOLITIC CAPITAL LETTER AZU", "h" : "2C00" },
 {"g" : "\u2C01", "n" : "GLAGOLITIC CAPITAL LETTER BUKY", "h" : "2C01" },
