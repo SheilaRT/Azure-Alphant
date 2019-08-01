@@ -493,34 +493,34 @@ var codepoints = [
 {"g" : "\u{1F67A}", "n" : "SANS-SERIF INTERROBANG ORNAMENT", "h" : "1F67A"},
 {"g" : "\u{1F67B}", "n" : "HEAVY SANS-SERIF INTERROBANG ORNAMENT", "h" : "1F67B"},
 {"g" : "\u{1F67C}", "n" : "VERY HEAVY SOLIDUS", "h" : "1F67C"},
-{"g" : "\u{1F67D}", "n" : "VERY HEAVY REVERSE SOLIDUS", "h" : "1F67D"},
+{"g" : "\u{1F67D}", "n" : "VERY HEAVY REVERSE SOLIDUS", "h" : "1F67D"}
 ];
       
   for (var i = 0; i < codepoints.length; i++) {
-	var myArticle = document.createElement('article');
-	var glyph = codepoints[i].g;
-	var name = codepoints[i].n;
-	var hex = codepoints[i].h;
-    	var myPara1 = document.createElement('p');
-    	var myPara2 = document.createElement('p');
-    	var myPara3 = document.createElement('p');
-		  var myPara4 = document.createElement('p');
-		  var myPara5 = document.createElement('p');
-		  var myPara6 = document.createElement('p');
+    var myArticle = document.createElement('article');
+    var glyph = codepoints[i].g;
+    var name = codepoints[i].n;
+    var hex = codepoints[i].h;
+      var myPara1 = document.createElement('p');
+      var myPara2 = document.createElement('p');
+      var myPara3 = document.createElement('p');
+      var myPara4 = document.createElement('p');
+      var myPara5 = document.createElement('p');
+      var myPara6 = document.createElement('p');
 
-    	myPara1.textContent = glyph;
-    	myPara2.textContent = name;
-    	myPara3.textContent = 'U+' + hex;
-		  myPara4.textContent = '&#x' + hex + ';';
-		  myPara5.textContent = '&#' + parseInt(hex, 16) + ';';
-		  myPara6.textContent = '\\' + 'u' + hex;
+      myPara1.textContent = glyph;
+      myPara2.textContent = name;
+      myPara3.textContent = 'U+' + hex;
+      myPara4.textContent = '&#x' + hex + ';';
+      myPara5.textContent = '&#' + parseInt(hex, 16) + ';';
+      myPara6.textContent = '\\' + 'u' + hex;
 
-    	myArticle.appendChild(myPara1);
-    	myArticle.appendChild(myPara2);
-    	myArticle.appendChild(myPara3);
-		  myArticle.appendChild(myPara4);
-		  myArticle.appendChild(myPara5);
-		  myArticle.appendChild(myPara6);
+      myArticle.appendChild(myPara1);
+      myArticle.appendChild(myPara2);
+      myArticle.appendChild(myPara3);
+      myArticle.appendChild(myPara4);
+      myArticle.appendChild(myPara5);
+      myArticle.appendChild(myPara6);
 
     section.appendChild(myArticle);
   }
