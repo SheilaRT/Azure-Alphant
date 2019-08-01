@@ -2312,7 +2312,6 @@ var codepoints = [
 {"g" : "\uA66D", "n" : "CYRILLIC SMALL LETTER DOUBLE MONOCULAR O", "h" : "A66D"},
 {"g" : "\uA66E", "n" : "CYRILLIC LETTER MULTIOCULAR O", "h" : "A66E"},
 
-{"g" : "\uA67E", "n" : "CYRILLIC KAVYKA", "h" : "A67E"},
 {"g" : "\uA67F", "n" : "CYRILLIC PAYEROK", "h" : "A67F"},
 {"g" : "\uA680", "n" : "CYRILLIC CAPITAL LETTER DWE", "h" : "A680"},
 {"g" : "\uA681", "n" : "CYRILLIC SMALL LETTER DWE", "h" : "A681"},
