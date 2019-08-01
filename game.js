@@ -284,6 +284,22 @@ var codepoints = [
 {"g" : "\u{1F0F3}", "n" : "PLAYING CARD TRUMP-19", "h" : "1F0F3"},
 {"g" : "\u{1F0F4}", "n" : "PLAYING CARD TRUMP-20", "h" : "1F0F4"},
 {"g" : "\u{1F0F5}", "n" : "PLAYING CARD TRUMP-21", "h" : "1F0F5"},
+	
+{"g" : "\u{1F3AE}", "n" : "VIDEO GAME", "h" : "1F3AE"},
+{"g" : "\u{1F3AF}", "n" : "DIRECT HIT", "h" : "1F3AF"},
+{"g" : "\u{1F3B0}", "n" : "SLOT MACHINE", "h" : "1F3B0"},
+{"g" : "\u{1F3B1}", "n" : "BILLIARDS", "h" : "1F3B1"},
+{"g" : "\u{1F3B2}", "n" : "GAME DIE", "h" : "1F3B2"},
+{"g" : "\u{1F3B3}", "n" : "BOWLING", "h" : "1F3B3"},
+{"g" : "\u{1F3B4}", "n" : "FLOWER PLAYING CARDS", "h" : "1F3B4"},
+	
+{"g" : "\u{1F67E}", "n" : "CHECKER BOARD", "h" : "1F67E"},
+{"g" : "\u{1F67F}", "n" : "REVERSE CHECKER BOARD", "h" : "1F67F"},
+	
+{"g" : "\u{1F7D5}", "n" : "CIRCLED TRIANGLE", "h" : "1F7D5"},
+{"g" : "\u{1F7D6}", "n" : "NEGATIVE CIRCLED TRIANGLE", "h" : "1F7D6"},
+{"g" : "\u{1F7D7}", "n" : "CIRCLED SQUARE", "h" : "1F7D7"},
+{"g" : "\u{1F7D8}", "n" : "NEGATIVE CIRCLED SQUARE", "h" : "1F7D8"},
 
 {"g" : "\u{1FA00}", "n" : "NEUTRAL CHESS KING", "h" : "1FA00"},
 {"g" : "\u{1FA01}", "n" : "NEUTRAL CHESS QUEEN", "h" : "1FA01"},
