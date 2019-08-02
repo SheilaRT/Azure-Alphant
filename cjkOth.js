@@ -349,6 +349,23 @@ var codepoints = [
 {"g" : "\u2FF9", "n" : "IDEOGRAPHIC DESCRIPTION CHARACTER SURROUND FROM UPPER RIGHT", "h" : "2FF9" },
 {"g" : "\u2FFA", "n" : "IDEOGRAPHIC DESCRIPTION CHARACTER SURROUND FROM LOWER LEFT", "h" : "2FFA" },
 {"g" : "\u2FFB", "n" : "IDEOGRAPHIC DESCRIPTION CHARACTER OVERLAID", "h" : "2FFB" },
+	
+{"g" : "\u3021", "n" : "HANGZHOU NUMERAL ONE", "h" : "3021" },
+{"g" : "\u3022", "n" : "HANGZHOU NUMERAL TWO", "h" : "3022" },
+{"g" : "\u3023", "n" : "HANGZHOU NUMERAL THREE", "h" : "3023" },
+{"g" : "\u3024", "n" : "HANGZHOU NUMERAL FOUR", "h" : "3024" },
+{"g" : "\u3025", "n" : "HANGZHOU NUMERAL FIVE", "h" : "3025" },
+{"g" : "\u3026", "n" : "HANGZHOU NUMERAL SIX", "h" : "3026" },
+{"g" : "\u3027", "n" : "HANGZHOU NUMERAL SEVEN", "h" : "3027" },
+{"g" : "\u3028", "n" : "HANGZHOU NUMERAL EIGHT", "h" : "3028" },
+{"g" : "\u3029", "n" : "HANGZHOU NUMERAL NINE", "h" : "3029" },
+
+{"g" : "\u3038", "n" : "HANGZHOU NUMERAL TEN", "h" : "3038" },
+{"g" : "\u3039", "n" : "HANGZHOU NUMERAL TWENTY", "h" : "3039" },
+{"g" : "\u303A", "n" : "HANGZHOU NUMERAL THIRTY", "h" : "303A" },
+
+{"g" : "\u303E", "n" : "IDEOGRAPHIC VARIATION INDICATOR", "h" : "303E" },
+{"g" : "\u303F", "n" : "IDEOGRAPHIC HALF FILL SPACE", "h" : "303F" },
 
 {"g" : "\u31C0", "n" : "CJK STROKE T", "h" : "31C0" },
 {"g" : "\u31C1", "n" : "CJK STROKE WG", "h" : "31C1" },
