@@ -443,6 +443,13 @@ var codepoints = [
 {"g" : "\u2DFD", "n" : "COMBINING CYRILLIC LETTER LITTLE YUS", "h" : "2DFD" },
 {"g" : "\u2DFE", "n" : "COMBINING CYRILLIC LETTER BIG YUS", "h" : "2DFE" },
 {"g" : "\u2DFF", "n" : "COMBINING CYRILLIC LETTER IOTIFIED BIG YUS", "h" : "2DFF" },
+	
+{"g" : "\u302A", "n" : "IDEOGRAPHIC LEVEL TONE MARK", "h" : "302A" },
+{"g" : "\u302B", "n" : "IDEOGRAPHIC RISING TONE MARK", "h" : "302B" },
+{"g" : "\u302C", "n" : "IDEOGRAPHIC DEPARTING TONE MARK", "h" : "302C" },
+{"g" : "\u302D", "n" : "IDEOGRAPHIC ENTERING TONE MARK", "h" : "302D" },
+{"g" : "\u302E", "n" : "HANGUL SINGLE DOT TONE MARK", "h" : "302E" },
+{"g" : "\u302F", "n" : "HANGUL DOUBLE DOT TONE MARK", "h" : "302F" },
 
 {"g" : "\uA66F", "n" : "COMBINING CYRILLIC VZMET", "h" : "A66F"},
 {"g" : "\uA670", "n" : "COMBINING CYRILLIC TEN MILLIONS SIGN", "h" : "A670"},
