@@ -427,6 +427,21 @@ var codepoints = [
 {"g" : "\u2448", "n" : "OCR DASH", "h" : "2448" },
 {"g" : "\u2449", "n" : "OCR CUSTOMER ACCOUNT NUMBER", "h" : "2449" },
 {"g" : "\u244A", "n" : "OCR DOUBLE BACKSLASH", "h" : "244A" },
+	
+{"g" : "\u2B7E", "n" : "HORIZONTAL TAB KEY", "h" : "2B7E" },
+{"g" : "\u2B7F", "n" : "VERTICAL TAB KEY", "h" : "2B7F" },
+
+{"g" : "\u2B90", "n" : "RETURN LEFT", "h" : "2B90" },
+{"g" : "\u2B91", "n" : "RETURN RIGHT", "h" : "2B91" },
+{"g" : "\u2B92", "n" : "NEWLINE LEFT", "h" : "2B92" },
+{"g" : "\u2B93", "n" : "NEWLINE RIGHT", "h" : "2B93" },
+
+{"g" : "\u2BB8", "n" : "UPWARDS WHITE ARROW FROM BAR WITH HORIZONTAL BAR", "h" : "2BB8" },
+{"g" : "\u2BB9", "n" : "UP ARROWHEAD IN A RECTANGLE BOX", "h" : "2BB9" },
+
+{"g" : "\u2BFF", "n" : "HELLSCHREIBER PAUSE SYMBOL", "h" : "2BFF" },
+
+{"g" : "\uFEFF", "n" : "ZERO WIDTH NO-BREAK SPACE", "h" : "FEFF"},
 
 {"g" : "\uFFF9", "n" : "INTERLINEAR ANNOTATION ANCHOR", "h" : "FFF9"},
 {"g" : "\uFFFA", "n" : "INTERLINEAR ANNOTATION SEPARATOR", "h" : "FFFA"},
