@@ -21,10 +21,10 @@ var codepoints = [
       var myPara3 = document.createElement('p');
       var myPara4 = document.createElement('p');
       var myPara5 = document.createElement('p');
-	    var myPara6 = document.createElement('p');
+      var myPara6 = document.createElement('p');
 
       myPara1.textContent = glyph;
-	    myPara2.textContent = '<not a character>';
+      myPara2.textContent = '<not a character>';
       myPara3.textContent = 'U+' + hex;
       myPara4.textContent = '&#x' + hex + ';';
       myPara5.textContent = '&#' + parseInt(hex, 16) + ';';
@@ -35,7 +35,7 @@ var codepoints = [
       myArticle.appendChild(myPara3);
       myArticle.appendChild(myPara4);
       myArticle.appendChild(myPara5);
-	    myArticle.appendChild(myPara6);
+      myArticle.appendChild(myPara6);
 
     section.appendChild(myArticle);
   }
