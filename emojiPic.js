@@ -298,6 +298,10 @@ var codepoints = [
 {"g" : "\u2752", "n" : "UPPER RIGHT SHADOWED WHITE SQUARE", "h" : "2752" },
 
 {"g" : "\u2764", "n" : "HEAVY BLACK HEART", "h" : "2764" },
+	
+{"g" : "\u27B0", "n" : "CURLY LOOP", "h" : "27B0" },
+
+{"g" : "\u27BF", "n" : "DOUBLE CURLY LOOP", "h" : "27BF" },
 
 {"g" : "\u2BC9", "n" : "NEPTUNE FORM TWO", "h" : "2BC9" },
 
