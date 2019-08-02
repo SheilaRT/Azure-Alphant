@@ -2257,6 +2257,11 @@ var codepoints = [
 {"g" : "\u33FD", "n" : "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY THIRTY", "h" : "33FD" },
 {"g" : "\u33FE", "n" : "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY THIRTY-ONE", "h" : "33FE" },
 {"g" : "\u33FF", "n" : "SQUARE GAL", "h" : "33FF" },
+	
+{"g" : "\uFFE9", "n" : "HALFWIDTH LEFTWARDS ARROW", "h" : "FFE9"},
+{"g" : "\uFFEA", "n" : "HALFWIDTH UPWARDS ARROW", "h" : "FFEA"},
+{"g" : "\uFFEB", "n" : "HALFWIDTH RIGHTWARDS ARROW", "h" : "FFEB"},
+{"g" : "\uFFEC", "n" : "HALFWIDTH DOWNWARDS ARROW", "h" : "FFEC"},
 
 {"g" : "\u{1D360}", "n" : "COUNTING ROD UNIT DIGIT ONE", "h" : "1D360"},
 {"g" : "\u{1D361}", "n" : "COUNTING ROD UNIT DIGIT TWO", "h" : "1D361"},
