@@ -562,7 +562,15 @@ var codepoints = [
 {"g" : "\u{1D242}", "n" : "COMBINING GREEK MUSICAL TRISEME", "h" : "1D242"},
 {"g" : "\u{1D243}", "n" : "COMBINING GREEK MUSICAL TETRASEME", "h" : "1D243"},
 {"g" : "\u{1D244}", "n" : "COMBINING GREEK MUSICAL PENTASEME", "h" : "1D244"},
-{"g" : "\u{1D245}", "n" : "GREEK MUSICAL LEIMMA", "h" : "1D245"}
+{"g" : "\u{1D245}", "n" : "GREEK MUSICAL LEIMMA", "h" : "1D245"},
+	
+{"g" : "\u{1F39C}", "n" : "BEAMED ASCENDING MUSICAL NOTES", "h" : "1F39C"},
+{"g" : "\u{1F39D}", "n" : "BEAMED DESCENDING MUSICAL NOTES", "h" : "1F39D"},
+
+{"g" : "\u{1F3B5}", "n" : "MUSICAL NOTE", "h" : "1F3B5"},
+{"g" : "\u{1F3B6}", "n" : "MULTIPLE MUSICAL NOTES", "h" : "1F3B6"},
+
+{"g" : "\u{1F3BC}", "n" : "MUSICAL SCORE", "h" : "1F3BC"}
 ];
       
   for (var i = 0; i < codepoints.length; i++) {
