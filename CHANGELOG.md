@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-### Update 4.0 [Unreleased]
+### Update 4.0
 - Refactored JavaScript (JS) files to remove AngularJS dependencies and improve load times (up to 76% faster loading)
 - Modified layout to aid with responsiveness
 - Added two new themes and three blank customization options
