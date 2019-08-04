@@ -55,7 +55,7 @@ Choose the category and sub-category for that character, glyph, or symbol, then 
 # Troubleshooting
 
 ### Why is the extension loading slow?
-The Unicode Standard contains quite a few characters. In order to make it possible for you to search through every possible character, glyph, and symbol (including emojis), every assigned codepoint must be added to the Azure Alphant database. The slow loading you are experiencing is likely due to the sheer amount of raw data your browser must process in order to display them all.
+The Unicode Standard contains quite a few characters. In order to make it possible for you to search through every possible character, glyph, and symbol (including emojis), every assigned codepoint must be added to the Azure Alphant database. The slow loading you are experiencing is likely due to the sheer amount of raw data your browser must process in order to display them all. Generally, the CJK and Supplementary Private Use Areas will take the longest to load, as they contain the largest number of codepoints.
 
 ### What about all those missing codepoints?
 Some codepoints are omitted because they have not been assigned a character yet. As Unicode updates, some of these will be filled in with newly assigned characters.
@@ -74,15 +74,13 @@ Essentially, each U+xxxx, U+xxxxx, and U+xxxxxx is a codepoint. There are 2^16 (
 The first plane, Plane 0 or Basic Multilingual Plane, mainly contains characters for languages in modern use. The second plane, Plane 1 or Supplementary Multilingual Plane, mainly contains characters for 'dead' or historic languages as well as characters for 'reform' languages, such as Deseret or Shavian, musical notation, emoji, and game characters. The third plane, Plane 2 or Supplementary Ideographic Plane, contains the bulk of CJK Unified Ideographs. The fourth plane, Plane 3 or Tertiary Ideographic Plane, is reserved for additional historic scripts, though as of Unicode 11, none are assigned yet. Planes 4-13 are not used as of Unicode 11. Plane 14, or Supplementary Special-Purpose Plane, only contains non-graphical characters and Planes 15-16, or Supplementary Private Use Area-A and Supplementary Private Use Area-B, are reserved for private use.
 
 ### What is a Private Use Area?
-Private Use Areas are reserved for private use, allowing parties outside of The Unicode Consortium, like [Font Awesome](https://github.com/FortAwesome/Font-Awesome), to assign their own characters to those codepoints. For example, if you create a UI font that you wish to sell and you want to avoid overwriting any assigned codepoints, both currently assigned and ones that may be assigned in the future, map your font characters (in this case UI symbols) to codepoints in any of the three Private Use Areas.
+Private Use Areas are reserved for private use, allowing parties outside of The Unicode Consortium, like [Font Awesome](https://github.com/FortAwesome/Font-Awesome), to assign their own characters to those codepoints. For example, if you create a UI font that you wish to sell and you want to avoid overwriting any assigned codepoints, both currently assigned and ones that may be assigned in the future, map your font characters (in this case, UI symbols) to codepoints in any of the three Private Use Areas.
 
-Azure Alphant does not (currently) support a listing of codepoints for Planes 15 or 16. This _may_ change in a future update.
-
-### Why can't I find English (or any other language) under the American (or whichever region it is spoken in) writing systems?
+### Why can't I find English (or any other language) under the American (or whichever region your language choice is spoken in) writing systems?
 The English language uses the Latin alphabet for a writing system. The Latin writing system was created in Europe by the Romans and can be found under European writing systems. This holds true for other languages as well; look for the writing system, not the language, under the region where it was first developed.
 
 ### What does CJK mean and why are there so many CJKs listed?
-CJK is merely a shorter way of writing 'Chinese, Japanese, and Korean'. Long ago, all three languages used the same basic writing system. It is an extremely large writing system, so Azure Alphant kept it divided up into three groups instead of merging them into one group, as we did with nearly every other writing script or group of related scripts. This was done to avoid time-out errors caused by the sheer amount load time that much data requires. Your time is valuable; Azure Alphant was created to help save it.
+CJK is merely a shorter way of writing 'Chinese, Japanese, and Korean'. It is an extremely large writing system, so Azure Alphant kept it divided up into three groups instead of merging them into one group, as we did with nearly every other writing script or group of related scripts. This was done to avoid time-out errors caused by the sheer amount of load time that much data requires. Your time is valuable; Azure Alphant was created to help save it.
 
 ***
 
@@ -104,7 +102,7 @@ _**custom.css**_: The final six lines style the buttons for each theme. The firs
 
 Once you've saved your changes, open Azure Alphant and enjoy your new themes. At any time, you may change the values for your custom themes. If and only if, you absolutely know how to code in JS and CSS, you may also add additional themes, however it is not the fault of Azure Alphant if you break your themes in the process. Choose wisely. 
 
-To make your theme of choice always be the theme selected, simply open _custom.css_ and change the values of each property in the root element to the values you used for your favorite theme in the _skin.js_ file.
+To make your theme of choice always be the theme selected, simply open _custom.css_ and change the values of each property in the root element to the values you used for your favorite theme in the _skin.js_ file. If you don't even want to see other theme options, set both `.theme` and `.theme button` to `display:none;` in _custom.css_. To bring the theme options back again, simply delete `display:none;` where you added it for `.theme` and `.theme button`. Of course, whether or not you've set the theme selector to display, whatever you've set the `:root` properties to in _custom.css_ will be the theme that is used by default.
 
 ***
 
@@ -114,4 +112,10 @@ To make your theme of choice always be the theme selected, simply open _custom.c
 Azure Alphant is merely an unofficial reference guide; new character requests should be sent to [The Unicode Consortium](http://www.unicode.org/).
 
 ### I can't find the answer to my question about Azure Alphant here. Where should I go to find it?
-[Add an issue to the Azure-Alphant repo on GitHub.](https://github.com/SheilaRT/Azure-Alphant) Chances are it will get answered there as a reply, and possibly be answered here once I've finished the next update.
+[Add an issue to the Azure-Alphant repo on GitHub.](https://github.com/SheilaRT/Azure-Alphant/issues) Chances are it will get answered there as a reply, and possibly be answered here once I've finished the next update.
+
+### I love using Azure Alphant, but I don't think that qualifies as an issue. How do I let you know?
+Give Azure Alphant a star on the [Azure-Alphant repo.](https://github.com/SheilaRT/Azure-Alphant)
+
+### How do I get you to add the same search function that you used to have on the Blue Alphant Chrome Extension? In fact, how do I make any suggestions?
+[Add an pull request to the Azure-Alphant repo on GitHub](https://github.com/SheilaRT/Azure-Alphant/pulls) for general suggestions. As for search, well, it would be nice, but I haven't quite found a way to make it work yet. If you're willing to contribute your expertise on the matter, I'm willing to work with you. Credit will be given for all working contributions which are added to this repo.
