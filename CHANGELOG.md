@@ -1,3 +1,8 @@
+---
+title: Azure Alphant | Changelog
+layout: post
+---
+
 # Changelog
 All notable changes to this project will be documented in this file.
 
