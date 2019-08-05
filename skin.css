@@ -1,3 +1,4 @@
+@charset "utf-8";
 body,article,summary,div.menu::before,span,article a,form,input,button,p.load,*{color:#118;}
 div.menu a:link,div.menu a:visited,a.u:link,a.u:visited,a.ad:link,a.ad:visited{color:#11C;}
 div.menu a:hover,div.menu a:active,a.u:hover,a.u:active,a.ad:hover,a.ad:active{color:#11A;}
