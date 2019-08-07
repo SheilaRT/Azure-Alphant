@@ -4,8 +4,6 @@ For more information, see [UNICODE, INC. LICENSE AGREEMENT - DATA FILES AND SOFT
 
 Azure Alphant image copyright © Sheila Tanner 2013-2019, All rights reserved
 
-Plus, minus, and both file icons used in the FAQ are from Icomoon and are used under the [Icomoon license](https://github.com/Keyamoon/IcoMoon-Free/blob/master/License.txt).
-
 All else in this repo is [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
