@@ -2,7 +2,9 @@ All character names are official character names and code points, listed as part
 
 For more information, see [UNICODE, INC. LICENSE AGREEMENT - DATA FILES AND SOFTWARE](https://www.unicode.org/license.html) and [Unicode® Copyright and Terms of Use](http://www.unicode.org/copyright.html)
 
-Images copyright © Sheila Tanner 2013-2019, All rights reserved
+Azure Alphant image copyright © Sheila Tanner 2013-2019, All rights reserved
+
+Plus, minus, and both file icons used in the FAQ are from Icomoon and are used under the [Icomoon license](https://github.com/Keyamoon/IcoMoon-Free/blob/master/License.txt).
 
 All else in this repo is [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
 
