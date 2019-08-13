@@ -1,3 +1,12 @@
+---
+name: Pull request
+about: Create a pull request to help us build a better repo
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 **IMPORTANT:heavy_exclamation_mark: Please do not create a Pull Request without creating an issue first.**
 
 *Any change needs to be discussed before proceeding. Failure to do so may result in the rejection of the pull request.*
