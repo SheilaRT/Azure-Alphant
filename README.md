@@ -128,7 +128,7 @@ Give Azure Alphant a star on the [Azure-Alphant repo.](https://github.com/Sheila
 # Share
 
 ### How do I tell others about Azure Alphant?
-You may send them a link to the Azure Alphant 'About' page, either as a text link (emails, texts, comments) or as a banner (blogs, articles). Feel free to tweak the height and width of the banner down from the default maximum size in order to fit your needs. If mentioning Azure Alphant in emoji form, you may use :large_blue_diamond::elephant: (U+1F537,U+1F418)
+You may send them a link to the Azure Alphant 'About' page, either as a text link (emails, texts, comments) or as a banner (blogs, articles). Feel free to tweak the height and width of the banner down from the default maximum size in order to fit your needs. If mentioning Azure Alphant in emoji form, you may use :large_blue_diamond::elephant: (U+1F537,U+1F418).
 
 *Text links*
 ```
