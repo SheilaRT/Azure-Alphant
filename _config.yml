@@ -1,1 +1,6 @@
+name: Azure Alphant
+description: A Character Entity Reference Chart and Font Support Verification Tool
+author: SheilaRT
+author_email: sheilart@zoho.com
+exclude: [accessibility.html, accessibility.js, africa.html, africa.js, americas.html, americas.js, centralAsia.html, centralAsia.js, cjkExtACDEF.html, cjkExtACDEF.js, cjkExtB.html, cjkExtB.js, cjkOth.html, cjkOth.js, combineMod.html, combineMod.js, eastAsia.html, eastAsia.js, emojiPic.html, emojiPic.js, europe.html, europe.js, game.html, game.js, hangul.html, hangul.js, indoOcean.html, indoOcean.js, math.html, math.js, midEast.html, midEast.js]
 theme: jekyll-theme-modernist
