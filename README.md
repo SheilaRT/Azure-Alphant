@@ -121,4 +121,27 @@ Azure Alphant is merely an unofficial reference guide; new character requests sh
 Give Azure Alphant a star on the [Azure-Alphant repo.](https://github.com/SheilaRT/Azure-Alphant)
 
 ### How do I get you to add the same search function that you used to have on the Blue Alphant Chrome Extension? In fact, how do I make any suggestions?
-[Add a pull request to the Azure-Alphant repo on GitHub](https://github.com/SheilaRT/Azure-Alphant/pulls) for general suggestions. As for search, well, it would be nice, but I haven't quite found a way to make it work correctly just yet. If you're willing to contribute your expertise on the matter, I'm willing to work with you. Credit will be given for all working contributions which are added to this repo.
+[Add a pull request to the Azure-Alphant repo on GitHub](https://github.com/SheilaRT/Azure-Alphant/pulls) for general suggestions. As for search, well, it would be nice, but I haven't quite found a way to make it work correctly just yet. If you're willing to contribute your expertise on the matter, I'm willing to work with you. Credit will be given for all working contributions which are added to this repo. 
+
+***
+
+# Share
+
+### How do I tell others about Azure Alphant?
+You may send them a link to the Azure Alphant 'About' page, either as a text link (emails, texts, comments) or as a banner (blogs, articles). Feel free to tweak the height and width of the banner down from the default maximum size in order to fit your needs. If mentioning Azure Alphant in emoji form, you may use :large_blue_diamond::elephant: (U+1F537,U+1F418)
+
+*Text links*
+```
+<a href="https://sheilart.github.io/Azure-Alphant/about.html" alt="Azure Alphant" title="Azure Alphant" data-purpose="A Character Entity Reference Chart and Font Support Verification Tool">Azure Alphant, A Character Entity Reference Chart and Font Support Verification Tool</a>
+```
+or
+```
+<a href="https://sheilart.github.io/Azure-Alphant/about.html" alt="Azure Alphant" title="Azure Alphant" data-purpose="A Character Entity Reference Chart and Font Support Verification Tool">Azure Alphant</a>
+```
+
+*Banner*
+```
+<a href="https://sheilart.github.io/Azure-Alphant/about.html" alt="Azure Alphant" title="Azure Alphant" data-purpose="A Character Entity Reference Chart and Font Support Verification Tool">
+<img src="https://repository-images.githubusercontent.com/197860181/0ae79780-b57d-11e9-8968-c6896d1199c6" style="height:588px;width:1176px;border:none;" data-size="height:width ratio is 1:2" />
+</a>
+```
