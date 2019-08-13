@@ -104,6 +104,8 @@ Once you've saved your changes, open Azure Alphant and enjoy your new themes. At
 
 To make your theme of choice always be the theme selected, simply open :page_facing_up: _custom.css_ and change the values of each property in the root element to the values you used for your favorite theme in the :page_facing_up: _skin.js_ file. If you don't even want to see other theme options, set both `.theme` and `.theme button` to `display:none;` in :page_facing_up: _custom.css_. To bring the theme options back again, simply delete `display:none;` where you added it for `.theme` and `.theme button`. Of course, whether or not you've set the theme selector to display, whatever you've set the `:root` properties to in :page_facing_up: _custom.css_ will be the theme that is used by default.
 
+:bulb: _**Protip**_: Save an updated copy of the files you customize and all associated images in a file folder outside of the Azure Alphant folder. You'll be able to copy and paste them back into the Azure Alphant folder after version changes. Otherwise, you may lose your customization settings.
+
 ### I'd really prefer setting this up on my desktop instead of bookmarking a local file. How do I do that?
 Simply create a shortcut to the :page_facing_up: _menu.html_ file, located in the Azure Alphant main folder, and paste it onto your desktop. A :art: _desktop.ico_ file has also been included for you to use instead of the default file image for your OS. If :art: _desktop.ico_ is not compatible with your OS, feel free to use the :art: _48x48.png_ file instead, as it is the exact same image, just in a different format. 
 
@@ -121,7 +123,7 @@ Azure Alphant is merely an unofficial reference guide; new character requests sh
 Give Azure Alphant a star on the [Azure-Alphant repo.](https://github.com/SheilaRT/Azure-Alphant)
 
 ### How do I get you to add the same search function that you used to have on the Blue Alphant Chrome Extension? In fact, how do I make any suggestions?
-[Add a pull request to the Azure-Alphant repo on GitHub](https://github.com/SheilaRT/Azure-Alphant/pulls) for general suggestions. As for search, well, it would be nice, but I haven't quite found a way to make it work correctly just yet. If you're willing to contribute your expertise on the matter, I'm willing to work with you. Credit will be given for all working contributions which are added to this repo. 
+[Add an issue to the Azure-Alphant repo on GitHub](https://github.com/SheilaRT/Azure-Alphant/issue) for general suggestions. As for search, well, it would be nice, but I haven't quite found a way to make it work correctly just yet. If you're willing to contribute your expertise on the matter, I'm willing to work with you. Credit will be given for all working contributions which are added to this repo. Please read the [contributing guide](https://github.com/SheilaRT/Azure-Alphant/blob/master/docs/CONTRIBUTING.md#how-you-can-help) and the [code of conduct](https://github.com/SheilaRT/Azure-Alphant/blob/master/CODE_OF_CONDUCT.md#contributor-covenant-code-of-conduct) for more information. Issue and pull request templates are provided in their respective folders in the [.github folder](https://github.com/SheilaRT/Azure-Alphant/tree/pending/.github).
 
 ***
 
@@ -130,7 +132,7 @@ Give Azure Alphant a star on the [Azure-Alphant repo.](https://github.com/Sheila
 ### How do I tell others about Azure Alphant?
 You may send them a link to the Azure Alphant 'About' page, either as a text link (emails, texts, comments) or as a banner (blogs, articles). Feel free to tweak the height and width of the banner down from the default maximum size in order to fit your needs. If mentioning Azure Alphant in emoji form, you may use :large_blue_diamond::elephant: (U+1F537,U+1F418).
 
-*Text links*
+**Text links**
 ```
 <a href="https://sheilart.github.io/Azure-Alphant/index.html" alt="Azure Alphant" title="Azure Alphant" data-purpose="A Character Entity Reference Chart and Font Support Verification Tool">Azure Alphant, A Character Entity Reference Chart and Font Support Verification Tool</a>
 ```
@@ -139,7 +141,7 @@ or
 <a href="https://sheilart.github.io/Azure-Alphant/index.html" alt="Azure Alphant" title="Azure Alphant" data-purpose="A Character Entity Reference Chart and Font Support Verification Tool">Azure Alphant</a>
 ```
 
-*Banner*
+**Banner**
 ```
 <a href="https://sheilart.github.io/Azure-Alphant/index.html" alt="Azure Alphant" title="Azure Alphant" data-purpose="A Character Entity Reference Chart and Font Support Verification Tool">
 <img src="https://repository-images.githubusercontent.com/197860181/0ae79780-b57d-11e9-8968-c6896d1199c6" style="height:588px;width:1176px;border:none;" data-size="height:width ratio is 1:2" />
