@@ -43,4 +43,4 @@ Include the name(s) of everyone who worked on the pull request and include any a
 
 **Closing issues**
 
-Put `closes #XXXX` in your comment to close the issue that your PR fixes.
+Put `closes #XXXX` in your comment to close the issue that your PR fixes. 
