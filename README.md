@@ -20,7 +20,7 @@ Actually, Azure Alphant doesn't know. Typing in a font name and submitting it fo
 
 *The codepoint value is a minimum of 4 digits.
 
-**Codepoints outside of Plane 0 do not display correctly using the C/C++/Java source code above. For codepoints which are 5 or 6 digits in length, use curly brackets around the digits. Example: The Unicode Codepoint for 'SNAIL' is U+1F40C, and will not display correctly unless written as `\u{1F40C}` or `\uD83D\uDC0C`. For more information, see '[Why do some of the language scripts look like they are a repeated character, but are also paired with a latin number or letter in my project?](https://github.com/SheilaRT/Azure-Alphant/wiki#why-do-some-of-the-language-scripts-look-like-they-are-a-repeated-character-but-are-also-paired-with-a-latin-number-or-letter-in-my-project)'.
+**Codepoints outside of Plane 0 do not display correctly using the C/C++/Java source code above. For codepoints which are 5 or 6 digits in length, use curly brackets around the digits. Example: The Unicode Codepoint for :snail: 'SNAIL' is U+1F40C, and will not display correctly unless written as `\u{1F40C}` or `\uD83D\uDC0C`. For more information, see '[Why do some of the language scripts look like they are a repeated character, but are also paired with a latin number or letter in my project?](https://github.com/SheilaRT/Azure-Alphant/wiki#why-do-some-of-the-language-scripts-look-like-they-are-a-repeated-character-but-are-also-paired-with-a-latin-number-or-letter-in-my-project)'.
 
 ### How do I change the size of the tiles?
 On your desktop, use the hotkeys **CTRL** + :heavy_plus_sign: (Windows) or **⌘ Command** + :heavy_plus_sign: (Mac) to make the tiles larger. Use the hotkeys **CTRL** + :heavy_minus_sign: (Windows) or **⌘ Command** + :heavy_minus_sign: (Mac) to make the tiles smaller. Use the hotkeys **CTRL**+**0** (Windows) or **⌘ Command**+**0** (Mac) to return the tiles to their default size. Mobile and tablet users may change the size of the tiles using the same spread and pinch gestures you normally use. Keep in mind that while the tiles will still work as intended, the font field may not if the Azure Alphant header ends up covering it when at maximum zoom levels on small screens.
@@ -105,7 +105,7 @@ Once you've saved your changes, open Azure Alphant and enjoy your new themes. At
 To make your theme of choice always be the theme selected, simply open :page_facing_up: _custom.css_ and change the values of each property in the root element to the values you used for your favorite theme in the :page_facing_up: _skin.js_ file. If you don't even want to see other theme options, set both `.theme` and `.theme button` to `display:none;` in :page_facing_up: _custom.css_. To bring the theme options back again, simply delete `display:none;` where you added it for `.theme` and `.theme button`. Of course, whether or not you've set the theme selector to display, whatever you've set the `:root` properties to in :page_facing_up: _custom.css_ will be the theme that is used by default.
 
 ### I'd really prefer setting this up on my desktop instead of bookmarking a local file. How do I do that?
-Simply create a shortcut to the :page_facing_up: _index.html_ file, located in the Azure Alphant main folder, and paste it onto your desktop. A :art: _desktop.ico_ file has also been included for you to use instead of the default file image for your OS. If :art: _desktop.ico_ is not compatible with your OS, feel free to use the :art: _48x48.png_ file instead, as it is the exact same image, just in a different format. 
+Simply create a shortcut to the :page_facing_up: _menu.html_ file, located in the Azure Alphant main folder, and paste it onto your desktop. A :art: _desktop.ico_ file has also been included for you to use instead of the default file image for your OS. If :art: _desktop.ico_ is not compatible with your OS, feel free to use the :art: _48x48.png_ file instead, as it is the exact same image, just in a different format. 
 
 ***
 
@@ -132,16 +132,16 @@ You may send them a link to the Azure Alphant 'About' page, either as a text lin
 
 *Text links*
 ```
-<a href="https://sheilart.github.io/Azure-Alphant/about.html" alt="Azure Alphant" title="Azure Alphant" data-purpose="A Character Entity Reference Chart and Font Support Verification Tool">Azure Alphant, A Character Entity Reference Chart and Font Support Verification Tool</a>
+<a href="https://sheilart.github.io/Azure-Alphant/index.html" alt="Azure Alphant" title="Azure Alphant" data-purpose="A Character Entity Reference Chart and Font Support Verification Tool">Azure Alphant, A Character Entity Reference Chart and Font Support Verification Tool</a>
 ```
 or
 ```
-<a href="https://sheilart.github.io/Azure-Alphant/about.html" alt="Azure Alphant" title="Azure Alphant" data-purpose="A Character Entity Reference Chart and Font Support Verification Tool">Azure Alphant</a>
+<a href="https://sheilart.github.io/Azure-Alphant/index.html" alt="Azure Alphant" title="Azure Alphant" data-purpose="A Character Entity Reference Chart and Font Support Verification Tool">Azure Alphant</a>
 ```
 
 *Banner*
 ```
-<a href="https://sheilart.github.io/Azure-Alphant/about.html" alt="Azure Alphant" title="Azure Alphant" data-purpose="A Character Entity Reference Chart and Font Support Verification Tool">
+<a href="https://sheilart.github.io/Azure-Alphant/index.html" alt="Azure Alphant" title="Azure Alphant" data-purpose="A Character Entity Reference Chart and Font Support Verification Tool">
 <img src="https://repository-images.githubusercontent.com/197860181/0ae79780-b57d-11e9-8968-c6896d1199c6" style="height:588px;width:1176px;border:none;" data-size="height:width ratio is 1:2" />
 </a>
 ```
