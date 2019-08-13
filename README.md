@@ -22,7 +22,7 @@ Actually, Azure Alphant doesn't know. Typing in a font name and submitting it fo
 
 **Codepoints outside of Plane 0 do not display correctly using the C/C++/Java source code above. For codepoints which are 5 or 6 digits in length, use curly brackets around the digits. Example: The Unicode Codepoint for 'SNAIL' is U+1F40C, and will not display correctly unless written as `\u{1F40C}` or `\uD83D\uDC0C`. For more information, see '[Why do some of the language scripts look like they are a repeated character, but are also paired with a latin number or letter in my project?](https://github.com/SheilaRT/Azure-Alphant/wiki#why-do-some-of-the-language-scripts-look-like-they-are-a-repeated-character-but-are-also-paired-with-a-latin-number-or-letter-in-my-project)'.
 
-How do I change the size of the tiles?
+### How do I change the size of the tiles?
 On your desktop, use the hotkeys **CTRL** + :heavy_plus_sign: (Windows) or **⌘ Command** + :heavy_plus_sign: (Mac) to make the tiles larger. Use the hotkeys **CTRL** + :heavy_minus_sign: (Windows) or **⌘ Command** + :heavy_minus_sign: (Mac) to make the tiles smaller. Use the hotkeys **CTRL**+**0** (Windows) or **⌘ Command**+**0** (Mac) to return the tiles to their default size. Mobile and tablet users may change the size of the tiles using the same spread and pinch gestures you normally use. Keep in mind that while the tiles will still work as intended, the font field may not if the Azure Alphant header ends up covering it when at maximum zoom levels on small screens.
 
 ***
@@ -98,7 +98,7 @@ For example, changing `root.style.setProperty('--color-basic', 'x')` to `root.st
 
 To create your next two themes, repeat the same steps for the lines after `custom2` and `custom3`. 
 
-:page_facing_up: _**custom.css**_: The final six lines style the buttons for each theme. The first three of those line are already set for the default alphant theme and both the white and black themes. For the last three, change the background color from `transparent` to the same value you used for `--bg` for the corresponding custom theme in :page_facing_up: _skin.js_. 
+:page_facing_up: _**custom.css**_: The final six lines style the buttons for each theme. The first three of those lines are already set for the default alphant theme and both the white and black themes. For the last three, change the background color from `transparent` to the same value you used for `--bg` for the corresponding custom theme in :page_facing_up: _skin.js_. 
 
 Once you've saved your changes, open Azure Alphant and enjoy your new themes. At any time, you may change the values for your custom themes. If and only if, you absolutely know how to code in JS and CSS, you may also add additional themes, however it is not the fault of Azure Alphant if you break your themes in the process. Choose wisely. 
 
