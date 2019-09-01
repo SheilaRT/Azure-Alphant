@@ -1,0 +1,19 @@
+{
+  "short_name": "Azure Alphant",
+  "name": "Azure Alphant",
+  "icons": [
+	{"src": "512x512.png", "sizes": "512x512"},
+	{"src": "256x256.png", "sizes": "256x256"},
+	{"src": "48x48.png", "sizes": "48x48"},
+	{"src": "32x32.png", "sizes": "32x32"},
+	{"src": "16x16.png", "sizes": "16x16"},
+	{"src": "logo.svg", "type": "image/svg+xml", "sizes": "34x38"},
+  {"src": "favicon.ico", "type": "image/x-icon", "sizes": "16x16"}
+  ],
+  "start_url": "/index.html/?source=pwa",
+  "background_color": "#CCC",
+  "display": "standalone",
+  "theme_color": "#CCC"
+  "publisher" : "Sheila Tanner"
+  "author" : "Sheila Tanner"
+}
