@@ -1,7 +1,8 @@
-<!DOCTYPE html><html><head><meta charset="utf-8"/><link rel="manifest" href="manifest.js" />
-<title>Azure Alphant</title><meta name="viewport" content="width=device-width" initial-scale="1" /><link rel="SHORTCUT ICON" href="favicon.ico" />
-<meta name="description" content="Azure Alphant is a character entity reference chart and font support verification tool." /><meta name="keywords" content="Azure Alphant, unicode, font support, character entity, reference chart" />
-<link rel="stylesheet" type="text/css" media="all" href="common.min.css" /><link rel="stylesheet" type="text/css" media="all" href="custom.css" /><link rel="canonical" href="" />
+<!DOCTYPE html><html lang="en-US"><head><meta charset="utf-8"/><link rel="manifest" href="manifest.json" />
+<title>Azure Alphant | Menu</title><meta name="viewport" content="width=device-width" initial-scale="1" /><link rel="SHORTCUT ICON" href="favicon.ico" />
+<meta name="description" content="Azure Alphant is a character entity reference chart and font support verification tool." /><meta name="keywords" content="Azure Alphant, unicode, font support, character entity, reference chart" /><meta name="theme-color" content="#CCC"><meta name="publisher" content="Sheila Tanner" /><meta name="author" content="Sheila Tanner" />
+<link rel="stylesheet" type="text/css" media="all" href="common.min.css" /><link rel="stylesheet" type="text/css" media="all" href="custom.css" />
+<meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="#CCC"><meta name="apple-mobile-web-app-title" content="Azure Alphant"><link rel="apple-touch-icon" sizes="256x256" href="256x256.png" type="image/png"><link rel="canonical" href="" />
 <style>
 @font-face {font-family:'Gothic A1';font-style:normal;font-weight:400;font-display:swap;src:local('Gothic A1 Regular'),local('GothicA1-Regular'),url(https://fonts.gstatic.com/s/gothica1/v7/CSR94z5ZnPydRjlCCwl6aaU4Qt0V05ZAcgT3T1VKO2vL6LbP.103.woff2) format('woff2');unicode-range:U+24d8;}
 @font-face {font-family:'Abel';font-style:normal;font-weight:400;font-display:swap;src:local('Abel Regular'),local('Abel-Regular'),url(https://fonts.gstatic.com/s/abel/v9/MwQ5bhbm2POE2V9BPQ.woff2) format('woff2');unicode-range:U+0000-00FF,U+02DC,U+2000-202F,U+2212;}
@@ -19,17 +20,20 @@ hr{height:1px;width:100%;margin:0 0;border:0;}
 span.i{font-family:'Gothic A1',Symbola;}
 footer{background:var(--bg);position:fixed;bottom:0;left:0;right:0;width:100%;text-align:center;border-top:1px solid var(--baseline);z-index:1;}
 .indent{padding-left:1em;border-left:1px solid var(--linear-center);display:block;margin-bottom:-.8em;}
-@supports (display: flex) {@media screen and (min-width: 960px){nav{flex-direction:row;}img{width:480px;height:380px;}}@media screen and (max-width: 959px){nav{flex-direction:column;}img{width:96px;height:76px;}}}
+@supports (display: flex) {
+  @media screen and (min-width: 960px){nav{flex-direction:row;}img{width:480px;height:380px;}}
+  @media screen and (max-width: 959px){nav{flex-direction:column;}img{width:96px;height:76px;}}
+}
 </style>
 <link rel="stylesheet" type="text/css" media="all" href="custom.css" />
 <!--[if IE]><style>#removeborder{outline:0;}</style><![endif]--></head><body id="removeborder">
 <div class="theme">Themes: 
-<button value="alphant" id="alphant"></button>
-<button value="white" id="white"></button>
-<button value="black" id="black"></button>
-<button value="custom1" id="custom1"></button>
-<button value="custom2" id="custom2"></button>
-<button value="custom3" id="custom3"></button>
+<button value="alphant" id="alphant" alt="Gray background with dark text"></button>
+<button value="white" id="white" alt="White background with black text"></button>
+<button value="black" id="black" alt="Black background with white text"></button>
+<button value="custom1" id="custom1" alt="Custom theme 1"></button>
+<button value="custom2" id="custom2" alt="Custom theme 2"></button>
+<button value="custom3" id="custom3" alt="Custom theme 3"></button>
 </div>
 
 <img src="logo.svg" title="Azure Alphant" aria-label="Azure Alphant" alt="Azure Alphant" />
