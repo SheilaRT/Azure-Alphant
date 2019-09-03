@@ -25,14 +25,4 @@ a{text-decoration:none;border-bottom:0px solid var(--color-basic);outline:0px so
 <p>It appears that you are offline. Please check your network connection or just <a href="menu.html">continue to use Azure Alphant</a>, knowing that some links (specifically, anything outside of this app - for example, Github and Twitter) may not work until your network connection is restored.</p>
 </main>
 
-<script>
-if ('serviceWorker' in navigator) {
-  window.addEventListener('load', () => {
-    navigator.serviceWorker.register('/service-worker.js')
-      .then((reg) => {
-        console.log('Service worker registered.', reg);
-      });
-  });
-}
-</script>
 </body></html>
