@@ -7,7 +7,8 @@
 @font-face {font-family:'Gothic A1';font-style:normal;font-weight:400;font-display:swap;src:local('Gothic A1 Regular'),local('GothicA1-Regular'),url(https://fonts.gstatic.com/s/gothica1/v7/CSR94z5ZnPydRjlCCwl6aaU4Qt0V05ZAcgT3T1VKO2vL6LbP.103.woff2) format('woff2');unicode-range:U+24d8;}
 @font-face {font-family:'Abel';font-style:normal;font-weight:400;font-display:swap;src:local('Abel Regular'),local('Abel-Regular'),url(https://fonts.gstatic.com/s/abel/v9/MwQ5bhbm2POE2V9BPQ.woff2) format('woff2');unicode-range:U+0000-00FF,U+02DC,U+2000-202F,U+2212;}
 body{font-family:Abel,san-serif;text-align:center;}
-h2,p{margin:.5em;padding:0;}
+h1{visibility:hidden;}
+  h2{font-size:1em;font-weight:500;font-style:italic;}
 menu,nav{position:relative;border:0px solid var(--baseline);display:flex;flex-wrap:row wrap;justify-content:space-around;}
 menu{text-align:right;margin:-5em auto 0 auto;padding:0 0 0 8vw;}
 nav{text-align:left;margin-top:0;}
@@ -38,14 +39,14 @@ footer{background:var(--bg);position:fixed;bottom:0;left:0;right:0;width:100%;te
 
 <img src="logo.svg" title="Azure Alphant" aria-label="Azure Alphant" alt="Azure Alphant" />
 
-<menu>
-<a href="index.html" alt="About" title="About">About</a><br />
-<a href="https://github.com/SheilaRT/Azure-Alphant/blob/master/README.md#azure-alphant" alt="FAQ" title="FAQ">FAQ</a><br />
-<a href="CHANGELOG.html" alt="Changelog" title="Changelog">Changelog</a><br />
-<a href="https://github.com/SheilaRT/Azure-Alphant/issues" alt="Feedback" title="Feedback">Feedback</a><br />
+  <menu><h1 role="menu">Main Menu</h1>
+<a href="index.html" alt="About" title="About" role="menuitem">About</a><br />
+<a href="https://github.com/SheilaRT/Azure-Alphant/blob/master/README.md#azure-alphant" alt="FAQ" title="FAQ" role="menuitem">FAQ</a><br />
+<a href="CHANGELOG.html" alt="Changelog" title="Changelog" role="menuitem">Changelog</a><br />
+<a href="https://github.com/SheilaRT/Azure-Alphant/issues" alt="Feedback" title="Feedback" role="menuitem">Feedback</a><br />
 </menu>
 <nav>
-<div role="menu" aria-labelledby="Basic Symbols"><hr /><br /><i id="Basic Symbols">Basic Symbols</i><br /><br />
+<div role="menu" aria-labelledby="Basic Symbols"><hr /><br /><h1 role="menu">Basic Symbols</h1><i id="Basic Symbols">Basic Symbols</i><br /><br />
   <span class="indent"><a href="punctuation.html" alt="Punctuation" title="Punctuation" role="menuitem">Punctuation</a></span><br />
   <span class="indent"><a href="music.html" alt="Musical Notation" title="Musical Notation" role="menuitem">Musical Notation</a></span><br />
   <span class="indent"><a href="game.html" alt="Game Symbols" title="Game Symbols" role="menuitem">Game Symbols</a></span><br />
