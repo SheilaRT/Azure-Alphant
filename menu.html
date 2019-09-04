@@ -28,12 +28,12 @@ footer{background:var(--bg);position:fixed;bottom:0;left:0;right:0;width:100%;te
 <link rel="stylesheet" type="text/css" media="all" href="custom.css" />
 <!--[if IE]><style>#removeborder{outline:0;}</style><![endif]--></head><body id="removeborder">
 <div class="theme">Themes: 
-<button value="alphant" id="alphant" alt="Gray background with dark text"></button>
-<button value="white" id="white" alt="White background with black text"></button>
-<button value="black" id="black" alt="Black background with white text"></button>
-<button value="custom1" id="custom1" alt="Custom theme 1"></button>
-<button value="custom2" id="custom2" alt="Custom theme 2"></button>
-<button value="custom3" id="custom3" alt="Custom theme 3"></button>
+<button value="alphant" id="alphant" alt="Gray background with dark text" role="switch" aria-label="Switch theme to gray background with dark text"></button>
+<button value="white" id="white" alt="White background with black text" role="switch" aria-label="Switch theme to white background with black text"></button>
+<button value="black" id="black" alt="Black background with white text" role="switch" aria-label="Switch theme to black background with white text"></button>
+<button value="custom1" id="custom1" alt="Custom theme 1" role="switch" aria-label="Switch theme to user custom theme 1"></button>
+<button value="custom2" id="custom2" alt="Custom theme 2" role="switch" aria-label="Switch theme to user custom theme 2" ></button>
+<button value="custom3" id="custom3" alt="Custom theme 3" role="switch" aria-label="Switch theme to user custom theme 3" ></button>
 </div>
 
 <img src="logo.svg" title="Azure Alphant" aria-label="Azure Alphant" alt="Azure Alphant" />
@@ -45,7 +45,7 @@ footer{background:var(--bg);position:fixed;bottom:0;left:0;right:0;width:100%;te
 <a href="https://github.com/SheilaRT/Azure-Alphant/issues" alt="Feedback" title="Feedback">Feedback</a><br />
 </menu>
 <nav>
-<div><hr /><br /><i>Basic Symbols</i><br /><br />
+<div aria-labelledby="Basic Symbols"><hr /><br /><i id="Basic Symbols">Basic Symbols</i><br /><br />
 <span class="indent">
   <a href="punctuation.html" alt="Punctuation" title="Punctuation">Punctuation</a></span><br />
 <span class="indent">
@@ -60,8 +60,9 @@ footer{background:var(--bg);position:fixed;bottom:0;left:0;right:0;width:100%;te
   <a href="tech.html" alt="Technical Symbols and Specials" title="Technical Symbols and Specials">Technical Symbols and Specials</a></span><br />
 <span class="indent">
   <a href="emojiPic.html" alt="Emoji, Pictographs, and Other Symbols" title="Emoji, Pictographs, and Other Symbols">Emoji, Pictographs, and Other Symbols</a></span><br /><br />
-<hr /><br /></div>  
-<div><hr /><br /><i>Private Use, Special, and Nongraphical</i><br /><br />
+<hr /><br /></div>
+
+<div aria-labelledby="Private Use, Special, and Nongraphical Symbols"><hr /><br /><i id="Private Use, Special, and Nongraphical Symbols">Private Use, Special, and Nongraphical</i><br /><br />
 Private Use Areas
 <span class="indent">
   <a href="pua.html" alt="Private Use Area" title="Private Use Area">Private Use Area</a><br />
@@ -74,7 +75,8 @@ Specials and Surrogates
   <a href="tags.html" alt="Tags" title="Tags">Tags</a><br />
   <a href="non.html" alt="Noncharacters" title="Noncharacters">Noncharacters</a></span><br /><br />
 <hr /><br /></div>
-<div><hr /><br /><i>Writing Systems</i> (Asian)<br /><br />
+
+<div aria-labelledby="Asian Writing Systems"><hr /><br /><i id="Asian Writing Systems">Writing Systems</i> (Asian)<br /><br />
 East Asian
 <span class="indent">
   <a href="cjkExtACDEF.html" alt="CJK Extensions A, C, D, E, and F" title="CJK Extensions A, C, D, E, and F">CJK Extensions A, C, D, E, and F</a><br />
@@ -90,7 +92,8 @@ Other Asian
 <span class="indent">
   <a href="centralAsia.html" alt="Central Asian Scripts" title="Central Asian Scripts">Central Asian Scripts</a></span><br /><br />
 <hr /><br /></div>
-<div><hr /><br /><i>Writing Systems</i> (Other)<br /><br />
+
+<div aria-labelledby="Writing Systems Other Than Asian"><hr /><br /><i id="Writing Systems Other Than Asian">Writing Systems</i> (Other)<br /><br />
 <span class="indent">
   <a href="europe.html" alt="European Scripts" title="European ScriptsEuropean Scripts">European Scripts</a></span><br />
   <span class="indent">
