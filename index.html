@@ -21,9 +21,9 @@ footer{background:var(--bg);position:fixed;bottom:0;left:0;right:0;width:100%;te
 a[download]:before{content:"";}
 a[download],a[download]:hover{border:1px solid var(--color-basic);padding:.5em;margin:.5em;line-height:5em;}
 a[download]:after{content:"";}
-@media screen and (min-width: 960px){main{width:35%;}img{width:480px;height:380px;}a[download],a[download]:hover{margin:2em;}}
-@media screen and (max-width: 959px) and (min-width: 600px){main{width:55%;}img{width:96px;height:76px;}a[download],a[download]:hover{margin:1em;}}
-@media screen and (max-width: 599px){main{width:95%;}img{width:96px;height:76px;}a[download],a[download]:hover{margin:.1em;}}
+@media screen and (min-width: 960px){main{width:35%;}img{width:480px;height:380px;}a[download],a[download]:hover{margin:2em;}.mobile{display:none;}}
+@media screen and (max-width: 959px) and (min-width: 600px){main{width:55%;}img{width:96px;height:76px;}a[download],a[download]:hover{margin:1em;}.mobile{display:none;}}
+@media screen and (max-width: 599px){main{width:95%;}img{width:96px;height:76px;}a[download],a[download]:hover{margin:1em;}.mobile{display:block;}}
 </style>
 <link rel="stylesheet" type="text/css" media="all" href="custom.css" />
 <!--[if IE]><style>#removeborder{outline:0;}</style><![endif]--></head><body id="removeborder">
@@ -41,7 +41,7 @@ a[download]:after{content:"";}
 
 <!--<p>Azure Alphant allows you find the general type of character you want in the menu, filter through the related characters to narrow down the search, and visually scan through the remaining characters to find exactly what you need.  Each character tile includes the name of the character and its codepoint, along with HTML, Java, and C++ encodings.</p>-->
 	
-<h2><br /><a download="Azure-Alphant.zip" href="https://github.com/SheilaRT/Azure-Alphant/archive/v4.0.2.zip">Download&#x00A0;ZIP&#x00A0;[&#x003C;2 MB]</a> <a download="Azure-Alphant.tar.gz" href="https://github.com/SheilaRT/Azure-Alphant/archive/v4.0.2.tar.gz">Download&#x00A0;TAR.GZ&#x00A0;[&#x003C;2 MB]</a><br /><br /></h2>
+<h2><br /><a download="Azure-Alphant.zip" href="https://github.com/SheilaRT/Azure-Alphant/archive/v4.0.2.zip">Download&#x00A0;ZIP&#x00A0;[&#x003C;2 MB]</a> <br class="mobile" /> <a download="Azure-Alphant.tar.gz" href="https://github.com/SheilaRT/Azure-Alphant/archive/v4.0.2.tar.gz">Download&#x00A0;TAR.GZ&#x00A0;[&#x003C;2 MB]</a><br /><br /></h2>
 	 
 
 <h2>Created with <span class="i">&#x2665;</span> by Sheila Tanner</h2><br /><br />
