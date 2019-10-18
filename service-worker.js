@@ -121,4 +121,4 @@ async function networkFirst(req){
     } catch (error) {
         return await cache.match(req);
     }
-};
+}
