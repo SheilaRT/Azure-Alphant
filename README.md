@@ -117,13 +117,13 @@ Simply create a shortcut to the :page_facing_up: _menu.html_ file, located in th
 Azure Alphant is merely an unofficial reference guide; new character requests should be sent to [The Unicode Consortium](http://www.unicode.org/).
 
 ### I can't find the answer to my question about Azure Alphant here. Where should I go to find it?
-[Add an issue to the Azure-Alphant repo on GitHub.](https://github.com/SheilaRT/Azure-Alphant/issues) Chances are it will get answered there as a reply, and possibly be answered here once I've finished the next update.
+[Add an issue to the Azure-Alphant repo on GitHub.](https://github.com/SheilaRT/Azure-Alphant/issues/new/choose) Chances are it will get answered there as a reply, and possibly be answered here once I've finished the next update.
 
 ### I love using Azure Alphant, but I don't think that qualifies as an issue. How do I let you know?
 Give Azure Alphant a star on the [Azure-Alphant repo.](https://github.com/SheilaRT/Azure-Alphant)
 
 ### How do I get you to add the same search function that you used to have on the Blue Alphant Chrome Extension? In fact, how do I make any suggestions?
-[Add an issue to the Azure-Alphant repo on GitHub](https://github.com/SheilaRT/Azure-Alphant/issue) for general suggestions. As for search, well, it would be nice, but I haven't quite found a way to make it work correctly just yet. If you're willing to contribute your expertise on the matter, I'm willing to work with you. Credit will be given for all working contributions which are added to this repo. Please read the [contributing guide](https://github.com/SheilaRT/Azure-Alphant/blob/master/docs/CONTRIBUTING.md#how-you-can-help) and the [code of conduct](https://github.com/SheilaRT/Azure-Alphant/blob/master/CODE_OF_CONDUCT.md#contributor-covenant-code-of-conduct) for more information. Issue and pull request templates are provided in their respective folders in the [.github folder](https://github.com/SheilaRT/Azure-Alphant/tree/pending/.github).
+[Add an issue to the Azure-Alphant repo on GitHub](https://github.com/SheilaRT/Azure-Alphant/issues/new/choose) for general suggestions. As for search, well, it would be nice, but I haven't quite found a way to make it work correctly just yet. If you're willing to contribute your expertise on the matter, I'm willing to work with you. Credit will be given for all working contributions which are added to this repo. Please read the [contributing guide](https://github.com/SheilaRT/Azure-Alphant/blob/master/docs/CONTRIBUTING.md#how-you-can-help) and the [code of conduct](https://github.com/SheilaRT/Azure-Alphant/blob/master/CODE_OF_CONDUCT.md#contributor-covenant-code-of-conduct) for more information. Issue and pull request templates are provided in their respective folders in the [.github folder](https://github.com/SheilaRT/Azure-Alphant/tree/pending/.github).
 
 ***
 
