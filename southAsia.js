@@ -905,7 +905,7 @@ var codepoints = [
 {"g" : "\u0D01", "n" : "MALAYALAM SIGN CANDRABINDU", "h" : "0D01" },
 {"g" : "\u0D02", "n" : "MALAYALAM SIGN ANUSVARA", "h" : "0D02" },
 {"g" : "\u0D03", "n" : "MALAYALAM SIGN VISARGA", "h" : "0D03" },
-
+{"g" : "\u0D04", "n" : "MALAYALAM LETTER VEDIC ANUSVARA", "h" : "0D04" },
 {"g" : "\u0D05", "n" : "MALAYALAM LETTER A", "h" : "0D05" },
 {"g" : "\u0D06", "n" : "MALAYALAM LETTER AA", "h" : "0D06" },
 {"g" : "\u0D07", "n" : "MALAYALAM LETTER I", "h" : "0D07" },
