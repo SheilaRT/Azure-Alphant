@@ -1416,6 +1416,7 @@ var codepoints = [
 {"g" : "\uA829", "n" : "SYLOTI NAGRI POETRY MARK-2", "h" : "A829"},
 {"g" : "\uA82A", "n" : "SYLOTI NAGRI POETRY MARK-3", "h" : "A82A"},
 {"g" : "\uA82B", "n" : "SYLOTI NAGRI POETRY MARK-4", "h" : "A82B"},
+{"g" : "\uA82C", "n" : "SYLOTI NAGRI SIGN ALTERNATE HASANTA", "h" : "A82C"},
 	
 {"g" : "\uA830", "n" : "NORTH INDIC FRACTION ONE QUARTER", "h" : "A830"},
 {"g" : "\uA831", "n" : "NORTH INDIC FRACTION ONE HALF", "h" : "A831"},
