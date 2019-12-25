@@ -1026,6 +1026,7 @@ var codepoints = [
 {"g" : "\u0D7E", "n" : "MALAYALAM LETTER CHILLU LL", "h" : "0D7E" },
 {"g" : "\u0D7F", "n" : "MALAYALAM LETTER CHILLU K", "h" : "0D7F" },
 
+{"g" : "\u0D81", "n" : "SINHALA SIGN CANDRABINDU", "h" : "0D81" },
 {"g" : "\u0D82", "n" : "SINHALA SIGN ANUSVARAYA", "h" : "0D82" },
 {"g" : "\u0D83", "n" : "SINHALA SIGN VISARGAYA", "h" : "0D83" },
 
