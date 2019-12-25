@@ -569,6 +569,7 @@ var codepoints = [
 {"g" : "\u0B4C", "n" : "ORIYA VOWEL SIGN AU", "h" : "0B4C" },
 {"g" : "\u0B4D", "n" : "ORIYA SIGN VIRAMA", "h" : "0B4D" },
 
+{"g" : "\u0B55", "n" : "ORIYA SIGN OVERLINE", "h" : "0B55" },
 {"g" : "\u0B56", "n" : "ORIYA AI LENGTH MARK", "h" : "0B56" },
 {"g" : "\u0B57", "n" : "ORIYA AU LENGTH MARK", "h" : "0B57" },
 
