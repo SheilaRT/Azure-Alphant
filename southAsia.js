@@ -2520,12 +2520,14 @@ var codepoints = [
 {"g" : "\u{11457}", "n" : "NEWA DIGIT SEVEN", "h" : "11457"},
 {"g" : "\u{11458}", "n" : "NEWA DIGIT EIGHT", "h" : "11458"},
 {"g" : "\u{11459}", "n" : "NEWA DIGIT NINE", "h" : "11459"},
-
+{"g" : "\u{1145A}", "n" : "NEWA DOUBLE COMMA", "h" : "1145A"},
 {"g" : "\u{1145B}", "n" : "NEWA PLACEHOLDER MARK", "h" : "1145B"},
 
 {"g" : "\u{1145D}", "n" : "NEWA INSERTION SIGN", "h" : "1145D"},
 {"g" : "\u{1145E}", "n" : "NEWA SANDHI MARK", "h" : "1145E"},
 {"g" : "\u{1145F}", "n" : "NEWA LETTER VEDIC ANUSVARA", "h" : "1145F"},
+{"g" : "\u{11460}", "n" : "NEWA SIGN JIHVAMULIYA", "h" : "11460"},
+{"g" : "\u{11461}", "n" : "NEWA SIGN UPADHMANIYA", "h" : "11461"},
 
 {"g" : "\u{11480}", "n" : "TIRHUTA ANJI", "h" : "11480"},
 {"g" : "\u{11481}", "n" : "TIRHUTA LETTER A", "h" : "11481"},
