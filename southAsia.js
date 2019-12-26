@@ -1991,6 +1991,7 @@ var codepoints = [
 {"g" : "\u{11144}", "n" : "CHAKMA LETTER LHAA", "h" : "11144"},
 {"g" : "\u{11145}", "n" : "CHAKMA VOWEL SIGN AA", "h" : "11145"},
 {"g" : "\u{11146}", "n" : "CHAKMA VOWEL SIGN EI", "h" : "11146"},
+{"g" : "\u{11147}", "n" : "CHAKMA LETTER VAA", "h" : "11147"},
 
 {"g" : "\u{11150}", "n" : "MAHAJANI LETTER A", "h" : "11150"},
 {"g" : "\u{11151}", "n" : "MAHAJANI LETTER I", "h" : "11151"},
