@@ -2111,7 +2111,8 @@ var codepoints = [
 {"g" : "\u{111CB}", "n" : "SHARADA VOWEL MODIFIER MARK", "h" : "111CB"},
 {"g" : "\u{111CC}", "n" : "SHARADA EXTRA SHORT VOWEL MARK", "h" : "111CC"},
 {"g" : "\u{111CD}", "n" : "SHARADA SUTRA MARK", "h" : "111CD"},
-
+{"g" : "\u{111CE}", "n" : "SHARADA VOWEL SIGN PRISHTHAMATRA E", "h" : "111CE"},
+{"g" : "\u{111CF}", "n" : "SHARADA SIGN INVERTED CANDRABINDU", "h" : "111CF"},
 {"g" : "\u{111D0}", "n" : "SHARADA DIGIT ZERO", "h" : "111D0"},
 {"g" : "\u{111D1}", "n" : "SHARADA DIGIT ONE", "h" : "111D1"},
 {"g" : "\u{111D2}", "n" : "SHARADA DIGIT TWO", "h" : "111D2"},
