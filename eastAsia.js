@@ -284,6 +284,11 @@ var codepoints = [
 {"g" : "\u31B8", "n" : "BOPOMOFO LETTER GH", "h" : "31B8" },
 {"g" : "\u31B9", "n" : "BOPOMOFO LETTER LH", "h" : "31B9" },
 {"g" : "\u31BA", "n" : "BOPOMOFO LETTER ZY", "h" : "31BA" },
+{"g" : "\u31BB", "n" : "BOPOMOFO FINAL LETTER G", "h" : "31BB" },
+{"g" : "\u31BC", "n" : "BOPOMOFO LETTER GW", "h" : "31BC" },
+{"g" : "\u31BD", "n" : "BOPOMOFO LETTER KW", "h" : "31BD" },
+{"g" : "\u31BE", "n" : "BOPOMOFO LETTER OE", "h" : "31BE" },
+{"g" : "\u31BF", "n" : "BOPOMOFO LETTER AH", "h" : "31BF" },
 
 {"g" : "\u31F0", "n" : "KATAKANA LETTER SMALL KU", "h" : "31F0" },
 {"g" : "\u31F1", "n" : "KATAKANA LETTER SMALL SI", "h" : "31F1" },
