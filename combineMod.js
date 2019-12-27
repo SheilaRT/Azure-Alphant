@@ -214,6 +214,8 @@ var codepoints = [
 {"g" : "\u1ABC", "n" : "COMBINING DOUBLE PARENTHESES ABOVE", "h" : "1ABC" },
 {"g" : "\u1ABD", "n" : "COMBINING PARENTHESES BELOW", "h" : "1ABD" },
 {"g" : "\u1ABE", "n" : "COMBINING PARENTHESES OVERLAY", "h" : "1ABE" },
+{"g" : "\u1ABF", "n" : "COMBINING LATIN SMALL LETTER W BELOW", "h" : "1ABF" },
+{"g" : "\u1AC0", "n" : "COMBINING LATIN SMALL LETTER TURNED W BELOW", "h" : "1AC0" },
 
 {"g" : "\u1D2C", "n" : "MODIFIER LETTER CAPITAL A", "h" : "1D2C" },
 {"g" : "\u1D2D", "n" : "MODIFIER LETTER CAPITAL AE", "h" : "1D2D" },
