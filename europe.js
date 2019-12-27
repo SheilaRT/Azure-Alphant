@@ -2498,11 +2498,19 @@ var codepoints = [
 {"g" : "\uA7BD", "n" : "LATIN SMALL LETTER GLOTTAL I", "h" : "A7BD"},
 {"g" : "\uA7BE", "n" : "LATIN CAPITAL LETTER GLOTTAL U", "h" : "A7BE"},
 {"g" : "\uA7BF", "n" : "LATIN SMALL LETTER GLOTTAL U", "h" : "A7BF"},
+
 {"g" : "\uA7C2", "n" : "LATIN CAPITAL LETTER ANGLICANA W", "h" : "A7C2"},
 {"g" : "\uA7C3", "n" : "LATIN SMALL LETTER ANGLICANA W", "h" : "A7C3"},
 {"g" : "\uA7C4", "n" : "LATIN CAPITAL LETTER C WITH PALATAL HOOK", "h" : "A7C4"},
 {"g" : "\uA7C5", "n" : "LATIN CAPITAL LETTER S WITH HOOK", "h" : "A7C5"},
 {"g" : "\uA7C6", "n" : "LATIN CAPITAL LETTER Z WITH PALATAL HOOK", "h" : "A7C6"},
+{"g" : "\uA7C7", "n" : "LATIN CAPITAL LETTER D WITH SHORT STROKE OVERLAY", "h" : "A7C7"},
+{"g" : "\uA7C8", "n" : "LATIN SMALL LETTER D WITH SHORT STROKE OVERLAY", "h" : "A7C8"},
+{"g" : "\uA7C9", "n" : "LATIN CAPITAL LETTER S WITH SHORT STROKE OVERLAY", "h" : "A7C9"},
+{"g" : "\uA7CA", "n" : "LATIN SMALL LETTER S WITH SHORT STROKE OVERLAY", "h" : "A7CA"},
+
+{"g" : "\uA7F5", "n" : "LATIN CAPITAL LETTER REVERSED HALF H", "h" : "A7F5"},
+{"g" : "\uA7F6", "n" : "LATIN SMALL LETTER REVERSED HALF H", "h" : "A7F6"},
 {"g" : "\uA7F7", "n" : "LATIN EPIGRAPHIC LETTER SIDEWAYS I", "h" : "A7F7"},
 
 {"g" : "\uA7FA", "n" : "LATIN LETTER SMALL CAPITAL TURNED M", "h" : "A7FA"},
