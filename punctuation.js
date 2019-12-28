@@ -291,6 +291,9 @@ var codepoints = [
 {"g" : "\u2E4D", "n" : "PARAGRAPHUS MARK", "h" : "2E4D" },
 {"g" : "\u2E4E", "n" : "PUNCTUS ELEVATUS MARK", "h" : "2E4E" },
 {"g" : "\u2E4F", "n" : "CORNISH VERSE DIVIDER", "h" : "2E4F" },
+{"g" : "\u2E50", "n" : "CROSS PATTY WITH RIGHT CROSSBAR", "h" : "2E50" },
+{"g" : "\u2E51", "n" : "CROSS PATTY WITH LEFT CROSSBAR", "h" : "2E51" },
+{"g" : "\u2E52", "n" : "TIRONIAN SIGN CAPITAL ET", "h" : "2E52" },
 
 {"g" : "\u3000", "n" : "IDEOGRAPHIC SPACE", "h" : "3000" },
 {"g" : "\u3001", "n" : "IDEOGRAPHIC COMMA", "h" : "3001" },
@@ -479,6 +482,9 @@ var codepoints = [
 {"g" : "\u{16FE1}", "n" : "NUSHU ITERATION MARK", "h" : "16FE1"},
 {"g" : "\u{16FE2}", "n" : "OLD CHINESE HOOK MARK", "h" : "16FE2"},
 {"g" : "\u{16FE3}", "n" : "OLD CHINESE ITERATION MARK", "h" : "16FE3"},
+
+{"g" : "\u{16FF0}", "n" : "VIETNAMESE ALTERNATE READING MARK CA", "h" : "16FF0"},
+{"g" : "\u{16FF1}", "n" : "VIETNAMESE ALTERNATE READING MARK NHAY", "h" : "16FF1"},
 
 {"g" : "\u{1F670}", "n" : "SCRIPT LIGATURE ET ORNAMENT", "h" : "1F670"},
 {"g" : "\u{1F671}", "n" : "HEAVY SCRIPT LIGATURE ET ORNAMENT", "h" : "1F671"},
