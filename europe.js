@@ -2572,6 +2572,7 @@ var codepoints = [
 {"g" : "\uAB65", "n" : "GREEK LETTER SMALL CAPITAL OMEGA", "h" : "AB65"},
 {"g" : "\uAB66", "n" : "LATIN SMALL LETTER DZ DIGRAPH WITH RETROFLEX HOOK", "h" : "AB66"},
 {"g" : "\uAB67", "n" : "LATIN SMALL LETTER TS DIGRAPH WITH RETROFLEX HOOK", "h" : "AB67"},
+{"g" : "\uAB68", "n" : "LATIN SMALL LETTER TURNED R WITH MIDDLE TILDE", "h" : "AB68"},
 
 {"g" : "\uFB00", "n" : "LATIN SMALL LIGATURE FF", "h" : "FB00"},
 {"g" : "\uFB01", "n" : "LATIN SMALL LIGATURE FI", "h" : "FB01"},
