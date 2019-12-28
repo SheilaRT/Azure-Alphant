@@ -480,28 +480,29 @@ var codepoints = [
 {"g" : "\u{1FB1A}", "n" : "BLOCK SEXTANT-345", "h" : "1FB1A"},
 {"g" : "\u{1FB1B}", "n" : "BLOCK SEXTANT-1345", "h" : "1FB1B"},
 {"g" : "\u{1FB1C}", "n" : "BLOCK SEXTANT-2345", "h" : "1FB1C"},
-{"g" : "\u{1FB1D}", "n" : "BLOCK SEXTANT-12345", "h" : "1FB1D"}
+{"g" : "\u{1FB1D}", "n" : "BLOCK SEXTANT-12345", "h" : "1FB1D"},
+{"g" : "\u{1FB1E}", "n" : "BLOCK SEXTANT-6", "h" : "1FB1E"},
+{"g" : "\u{1FB1F}", "n" : "BLOCK SEXTANT-16", "h" : "1FB1F"},
+{"g" : "\u{1FB20}", "n" : "BLOCK SEXTANT-26", "h" : "1FB20"},
+{"g" : "\u{1FB21}", "n" : "BLOCK SEXTANT-126", "h" : "1FB21"},
+{"g" : "\u{1FB22}", "n" : "BLOCK SEXTANT-36", "h" : "1FB22"},
+{"g" : "\u{1FB23}", "n" : "BLOCK SEXTANT-136", "h" : "1FB23"},
+{"g" : "\u{1FB24}", "n" : "BLOCK SEXTANT-236", "h" : "1FB24"},
+{"g" : "\u{1FB25}", "n" : "BLOCK SEXTANT-1236", "h" : "1FB25"},
+{"g" : "\u{1FB26}", "n" : "BLOCK SEXTANT-46", "h" : "1FB26"},
+{"g" : "\u{1FB27}", "n" : "BLOCK SEXTANT-146", "h" : "1FB27"},
+{"g" : "\u{1FB28}", "n" : "BLOCK SEXTANT-1246", "h" : "1FB28"},
+{"g" : "\u{1FB29}", "n" : "BLOCK SEXTANT-346", "h" : "1FB29"},
+{"g" : "\u{1FB2A}", "n" : "BLOCK SEXTANT-1346", "h" : "1FB2A"},
+{"g" : "\u{1FB2B}", "n" : "BLOCK SEXTANT-2346", "h" : "1FB2B"},
+{"g" : "\u{1FB2C}", "n" : "BLOCK SEXTANT-12346", "h" : "1FB2C"},
+{"g" : "\u{1FB2D}", "n" : "BLOCK SEXTANT-56", "h" : "1FB2D"},
+{"g" : "\u{1FB2E}", "n" : "BLOCK SEXTANT-156", "h" : "1FB2E"},
+{"g" : "\u{1FB2F}", "n" : "BLOCK SEXTANT-256", "h" : "1FB2F"}
 ];
 	
 /* 
-1FB1E BLOCK SEXTANT-6
-1FB1F BLOCK SEXTANT-16
-1FB20 BLOCK SEXTANT-26
-1FB21 BLOCK SEXTANT-126
-1FB22 BLOCK SEXTANT-36
-1FB23 BLOCK SEXTANT-136
-1FB24 BLOCK SEXTANT-236
-1FB25 BLOCK SEXTANT-1236
-1FB26 BLOCK SEXTANT-46
-1FB27 BLOCK SEXTANT-146
-1FB28 BLOCK SEXTANT-1246
-1FB29 BLOCK SEXTANT-346
-1FB2A BLOCK SEXTANT-1346
-1FB2B BLOCK SEXTANT-2346
-1FB2C BLOCK SEXTANT-12346
-1FB2D BLOCK SEXTANT-56
-1FB2E BLOCK SEXTANT-156
-1FB2F BLOCK SEXTANT-256
+{"g" : "\u{1FB3}", "n" : "", "h" : "1FB3"},
 1FB30 BLOCK SEXTANT-1256
 1FB31 BLOCK SEXTANT-356
 1FB32 BLOCK SEXTANT-1356
