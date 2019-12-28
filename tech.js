@@ -480,7 +480,7 @@ var codepoints = [
 {"g" : "\u{1FB1A}", "n" : "BLOCK SEXTANT-345", "h" : "1FB1A"},
 {"g" : "\u{1FB1B}", "n" : "BLOCK SEXTANT-1345", "h" : "1FB1B"},
 {"g" : "\u{1FB1C}", "n" : "BLOCK SEXTANT-2345", "h" : "1FB1C"},
-{"g" : "\u{1FB1D}", "n" : "1FB1D BLOCK SEXTANT-12345", "h" : "1FB1D"}
+{"g" : "\u{1FB1D}", "n" : "BLOCK SEXTANT-12345", "h" : "1FB1D"}
 ];
 	
 /* 
