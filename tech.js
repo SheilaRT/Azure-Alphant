@@ -447,7 +447,9 @@ var codepoints = [
 {"g" : "\uFFFA", "n" : "INTERLINEAR ANNOTATION SEPARATOR", "h" : "FFFA"},
 {"g" : "\uFFFB", "n" : "INTERLINEAR ANNOTATION TERMINATOR", "h" : "FFFB"},
 {"g" : "\uFFFC", "n" : "OBJECT REPLACEMENT CHARACTER", "h" : "FFFC"},
-{"g" : "\uFFFD", "n" : "REPLACEMENT CHARACTER", "h" : "FFFD"}
+{"g" : "\uFFFD", "n" : "REPLACEMENT CHARACTER", "h" : "FFFD"},
+
+{"g" : "\u{16FE4}", "n" : "KHITAN SMALL SCRIPT FILLER", "h" : "16FE4"}
 ];
       
   for (var i = 0; i < codepoints.length; i++) {
@@ -458,23 +460,23 @@ var codepoints = [
     	var myPara1 = document.createElement('p');
     	var myPara2 = document.createElement('p');
     	var myPara3 = document.createElement('p');
-		  var myPara4 = document.createElement('p');
-		  var myPara5 = document.createElement('p');
-		  var myPara6 = document.createElement('p');
+	var myPara4 = document.createElement('p');
+	var myPara5 = document.createElement('p');
+	var myPara6 = document.createElement('p');
 
     	myPara1.textContent = glyph;
     	myPara2.textContent = name;
     	myPara3.textContent = 'U+' + hex;
-		  myPara4.textContent = '&#x' + hex + ';';
-		  myPara5.textContent = '&#' + parseInt(hex, 16) + ';';
-		  myPara6.textContent = '\\' + 'u' + hex;
+	myPara4.textContent = '&#x' + hex + ';';
+	myPara5.textContent = '&#' + parseInt(hex, 16) + ';';
+	myPara6.textContent = '\\' + 'u' + hex;
 
     	myArticle.appendChild(myPara1);
     	myArticle.appendChild(myPara2);
     	myArticle.appendChild(myPara3);
-		  myArticle.appendChild(myPara4);
-		  myArticle.appendChild(myPara5);
-		  myArticle.appendChild(myPara6);
+	myArticle.appendChild(myPara4);
+	myArticle.appendChild(myPara5);
+	myArticle.appendChild(myPara6);
 
     section.appendChild(myArticle);
   }
