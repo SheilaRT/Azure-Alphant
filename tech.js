@@ -449,8 +449,64 @@ var codepoints = [
 {"g" : "\uFFFC", "n" : "OBJECT REPLACEMENT CHARACTER", "h" : "FFFC"},
 {"g" : "\uFFFD", "n" : "REPLACEMENT CHARACTER", "h" : "FFFD"},
 
-{"g" : "\u{16FE4}", "n" : "KHITAN SMALL SCRIPT FILLER", "h" : "16FE4"}
+{"g" : "\u{16FE4}", "n" : "KHITAN SMALL SCRIPT FILLER", "h" : "16FE4"},
+
+{"g" : "\u{1FB00}", "n" : "BLOCK SEXTANT-1", "h" : "1FB00"},
+{"g" : "\u{1FB01}", "n" : "BLOCK SEXTANT-2", "h" : "1FB01"},
+{"g" : "\u{1FB02}", "n" : "BLOCK SEXTANT-12", "h" : "1FB02"},
+{"g" : "\u{1FB03}", "n" : "BLOCK SEXTANT-3", "h" : "1FB03"},
+{"g" : "\u{1FB04}", "n" : "BLOCK SEXTANT-13", "h" : "1FB04"},
+{"g" : "\u{1FB05}", "n" : "BLOCK SEXTANT-23", "h" : "1FB05"},
+{"g" : "\u{1FB06}", "n" : "BLOCK SEXTANT-123", "h" : "1FB06"},
+{"g" : "\u{1FB07}", "n" : "BLOCK SEXTANT-4", "h" : "1FB07"},
+{"g" : "\u{1FB08}", "n" : "BLOCK SEXTANT-14", "h" : "1FB08"},
+{"g" : "\u{1FB09}", "n" : "BLOCK SEXTANT-24", "h" : "1FB09"},
+{"g" : "\u{1FB0A}", "n" : "BLOCK SEXTANT-124", "h" : "1FB0A"},
+{"g" : "\u{1FB0B}", "n" : "BLOCK SEXTANT-34", "h" : "1FB0B"},
+{"g" : "\u{1FB0C}", "n" : "BLOCK SEXTANT-134", "h" : "1FB0C"},
+{"g" : "\u{1FB0D}", "n" : "BLOCK SEXTANT-234", "h" : "1FB0D"},
+{"g" : "\u{1FB0E}", "n" : "BLOCK SEXTANT-1234", "h" : "1FB0E"},
+{"g" : "\u{1FB0F}", "n" : "BLOCK SEXTANT-5", "h" : "1FB0F"},
+{"g" : "\u{1FB10}", "n" : "BLOCK SEXTANT-15", "h" : "1FB10"},
+{"g" : "\u{1FB11}", "n" : "BLOCK SEXTANT-25", "h" : "1FB11"},
+{"g" : "\u{1FB12}", "n" : "BLOCK SEXTANT-125", "h" : "1FB12"},
+{"g" : "\u{1FB13}", "n" : "BLOCK SEXTANT-35", "h" : "1FB13"},
+{"g" : "\u{1FB14}", "n" : "BLOCK SEXTANT-235", "h" : "1FB14"},
+{"g" : "\u{1FB15}", "n" : "BLOCK SEXTANT-1235", "h" : "1FB15"},
+{"g" : "\u{1FB16}", "n" : "BLOCK SEXTANT-45", "h" : "1FB16"},
+{"g" : "\u{1FB17}", "n" : "BLOCK SEXTANT-145", "h" : "1FB17"},
+{"g" : "\u{1FB18}", "n" : "BLOCK SEXTANT-245", "h" : "1FB18"},
+{"g" : "\u{1FB19}", "n" : "BLOCK SEXTANT-1245", "h" : "1FB19"},
+{"g" : "\u{1FB1A}", "n" : "BLOCK SEXTANT-345", "h" : "1FB1A"},
+{"g" : "\u{1FB1B}", "n" : "BLOCK SEXTANT-1345", "h" : "1FB1B"},
+{"g" : "\u{1FB1C}", "n" : "BLOCK SEXTANT-2345", "h" : "1FB1C"},
+{"g" : "\u{1FB1D}", "n" : "1FB1D BLOCK SEXTANT-12345", "h" : "1FB1D"}
 ];
+	
+/* 
+1FB1E BLOCK SEXTANT-6
+1FB1F BLOCK SEXTANT-16
+1FB20 BLOCK SEXTANT-26
+1FB21 BLOCK SEXTANT-126
+1FB22 BLOCK SEXTANT-36
+1FB23 BLOCK SEXTANT-136
+1FB24 BLOCK SEXTANT-236
+1FB25 BLOCK SEXTANT-1236
+1FB26 BLOCK SEXTANT-46
+1FB27 BLOCK SEXTANT-146
+1FB28 BLOCK SEXTANT-1246
+1FB29 BLOCK SEXTANT-346
+1FB2A BLOCK SEXTANT-1346
+1FB2B BLOCK SEXTANT-2346
+1FB2C BLOCK SEXTANT-12346
+1FB2D BLOCK SEXTANT-56
+1FB2E BLOCK SEXTANT-156
+1FB2F BLOCK SEXTANT-256
+1FB30 BLOCK SEXTANT-1256
+1FB31 BLOCK SEXTANT-356
+1FB32 BLOCK SEXTANT-1356
+1FB33 BLOCK SEXTANT-2356
+1FB34 BLOCK SEXTANT-12356 */
       
   for (var i = 0; i < codepoints.length; i++) {
 	var myArticle = document.createElement('article');
