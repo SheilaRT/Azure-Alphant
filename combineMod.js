@@ -525,6 +525,10 @@ var codepoints = [
 {"g" : "\uAB5E", "n" : "MODIFIER LETTER SMALL L WITH MIDDLE TILDE", "h" : "AB5E"},
 {"g" : "\uAB5F", "n" : "MODIFIER LETTER SMALL U WITH LEFT HOOK", "h" : "AB5F"},
 
+{"g" : "\uAB69", "n" : "MODIFIER LETTER SMALL TURNED W", "h" : "AB69"},
+{"g" : "\uAB6A", "n" : "MODIFIER LETTER LEFT TACK", "h" : "AB6A"},
+{"g" : "\uAB6B", "n" : "MODIFIER LETTER RIGHT TACK", "h" : "AB6B"},
+
 {"g" : "\uFE20", "n" : "COMBINING LIGATURE LEFT HALF", "h" : "FE20"},
 {"g" : "\uFE21", "n" : "COMBINING LIGATURE RIGHT HALF", "h" : "FE21"},
 {"g" : "\uFE22", "n" : "COMBINING DOUBLE TILDE LEFT HALF", "h" : "FE22"},
