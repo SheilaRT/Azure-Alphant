@@ -583,11 +583,26 @@ AB68 LATIN SMALL LETTER TURNED R WITH MIDDLE TILDE
 
 1F6FC ROLLER SKATE
 
+1F90C PINCHED FINGERS
+1F972 SMILING FACE WITH TEAR
+1F977 NINJA
+1F978 DISGUISED FACE
+1F9A3 MAMMOTH
+1F9A4 DODO
+1F9AB BEAVER
+1F9AC BISON
+1F9AD SEAL
+1F9CB BUBBLE TEA
+
 ---
 
 ##Current block
 
-https://unicode.org/charts/PDF/Unicode-13.0/ (Supplemental Symbols and Pictographs - 10)
+https://unicode.org/charts/PDF/Unicode-13.0/U130-1F900.pdf (Supplemental Symbols and Pictographs - 10)
+
+##Next block
+
+Symbols and Pictographs Extended-A - 41
 
 ##Blocks left to go
 
@@ -604,8 +619,6 @@ https://unicode.org/charts/PDF/Unicode-13.0/ (Supplemental Symbols and Pictograp
 . Enclosed Alphanumeric Supplement - 7
 
 . Supplemental Arrows-C - 2
-
-. Symbols and Pictographs Extended-A - 41
 
 ---
 
