@@ -611,7 +611,6 @@ var codepoints = [
 {"g" : "\u{1FB9D}", "n" : "UPPER RIGHT TRIANGULAR MEDIUM SHADE", "h" : "1FB9D"},
 {"g" : "\u{1FB9E}", "n" : "LOWER RIGHT TRIANGULAR MEDIUM SHADE", "h" : "1FB9E"},
 {"g" : "\u{1FB9F}", "n" : "LOWER LEFT TRIANGULAR MEDIUM SHADE", "h" : "1FB9F"},
-
 {"g" : "\u{1FBA0}", "n" : "BOX DRAWINGS LIGHT DIAGONAL UPPER CENTRE TO MIDDLE LEFT", "h" : "1FBA0"},
 {"g" : "\u{1FBA1}", "n" : "BOX DRAWINGS LIGHT DIAGONAL UPPER CENTRE TO MIDDLE RIGHT", "h" : "1FBA1"},
 {"g" : "\u{1FBA2}", "n" : "BOX DRAWINGS LIGHT DIAGONAL MIDDLE LEFT TO LOWER CENTRE", "h" : "1FBA2"},
@@ -628,7 +627,6 @@ var codepoints = [
 {"g" : "\u{1FBAD}", "n" : "BOX DRAWINGS LIGHT DIAGONAL MIDDLE RIGHT TO UPPER CENTRE TO MIDDLE LEFT TO LOWER CENTRE", "h" : "1FBAD"},
 {"g" : "\u{1FBAE}", "n" : "BOX DRAWINGS LIGHT DIAGONAL DIAMOND", "h" : "1FBAE"},
 {"g" : "\u{1FBAF}", "n" : "BOX DRAWINGS LIGHT HORIZONTAL WITH VERTICAL STROKE", "h" : "1FBAF"},
-
 {"g" : "\u{1FBB0}", "n" : "ARROWHEAD-SHAPED POINTER", "h" : "1FBB0"},
 {"g" : "\u{1FBB1}", "n" : "INVERSE CHECK MARK", "h" : "1FBB1"},
 {"g" : "\u{1FBB2}", "n" : "LEFT HALF RUNNING MAN", "h" : "1FBB2"},
@@ -646,12 +644,30 @@ var codepoints = [
 {"g" : "\u{1FBBE}", "n" : "NEGATIVE DIAGONAL MIDDLE RIGHT TO LOWER CENTRE", "h" : "1FBBE"},
 {"g" : "\u{1FBBF}", "n" : "NEGATIVE DIAGONAL DIAMOND", "h" : "1FBBF"},
 
-{"g" : "\u{1FBC}", "n" : "", "h" : "1FBC"}
+{"g" : "\u{1FBC0}", "n" : "WHITE HEAVY SALTIRE WITH ROUNDED CORNERS", "h" : "1FBC0"},
+{"g" : "\u{1FBC1}", "n" : "LEFT THIRD WHITE RIGHT POINTING INDEX", "h" : "1FBC1"},
+{"g" : "\u{1FBC2}", "n" : "MIDDLE THIRD WHITE RIGHT POINTING INDEX", "h" : "1FBC2"},
+{"g" : "\u{1FBC3}", "n" : "RIGHT THIRD WHITE RIGHT POINTING INDEX", "h" : "1FBC3"},
+{"g" : "\u{1FBC4}", "n" : "NEGATIVE SQUARED QUESTION MARK", "h" : "1FBC4"},
+{"g" : "\u{1FBC5}", "n" : "STICK FIGURE", "h" : "1FBC5"},
+{"g" : "\u{1FBC6}", "n" : "STICK FIGURE WITH ARMS RAISED", "h" : "1FBC6"},
+{"g" : "\u{1FBC7}", "n" : "STICK FIGURE LEANING LEFT", "h" : "1FBC7"},
+{"g" : "\u{1FBC8}", "n" : "STICK FIGURE LEANING RIGHT", "h" : "1FBC8"},
+{"g" : "\u{1FBC9}", "n" : "STICK FIGURE WITH DRESS", "h" : "1FBC9"},
+{"g" : "\u{1FBCA}", "n" : "WHITE UP-POINTING CHEVRON", "h" : "1FBCA"},
+
+{"g" : "\u{1FBF0}", "n" : "SEGMENTED DIGIT ZERO", "h" : "1FBF0"},
+{"g" : "\u{1FBF1}", "n" : "SEGMENTED DIGIT ONE", "h" : "1FBF1"},
+{"g" : "\u{1FBF2}", "n" : "SEGMENTED DIGIT TWO", "h" : "1FBF2"},
+{"g" : "\u{1FBF3}", "n" : "SEGMENTED DIGIT THREE", "h" : "1FBF3"},
+{"g" : "\u{1FBF4}", "n" : "SEGMENTED DIGIT FOUR", "h" : "1FBF4"},
+{"g" : "\u{1FBF5}", "n" : "SEGMENTED DIGIT FIVE", "h" : "1FBF5"},
+{"g" : "\u{1FBF6}", "n" : "SEGMENTED DIGIT SIX", "h" : "1FBF6"},
+{"g" : "\u{1FBF7}", "n" : "SEGMENTED DIGIT SEVEN", "h" : "1FBF7"},
+{"g" : "\u{1FBF8}", "n" : "SEGMENTED DIGIT EIGHT", "h" : "1FBF8"},
+{"g" : "\u{1FBF9}", "n" : "SEGMENTED DIGIT NINE", "h" : "1FBF9"}
 ];
-	
-/* 
- */
-      
+
   for (var i = 0; i < codepoints.length; i++) {
 	var myArticle = document.createElement('article');
 	var glyph = codepoints[i].g;
