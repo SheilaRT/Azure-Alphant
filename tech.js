@@ -643,7 +643,6 @@ var codepoints = [
 {"g" : "\u{1FBBD}", "n" : "NEGATIVE DIAGONAL CROSS", "h" : "1FBBD"},
 {"g" : "\u{1FBBE}", "n" : "NEGATIVE DIAGONAL MIDDLE RIGHT TO LOWER CENTRE", "h" : "1FBBE"},
 {"g" : "\u{1FBBF}", "n" : "NEGATIVE DIAGONAL DIAMOND", "h" : "1FBBF"},
-
 {"g" : "\u{1FBC0}", "n" : "WHITE HEAVY SALTIRE WITH ROUNDED CORNERS", "h" : "1FBC0"},
 {"g" : "\u{1FBC1}", "n" : "LEFT THIRD WHITE RIGHT POINTING INDEX", "h" : "1FBC1"},
 {"g" : "\u{1FBC2}", "n" : "MIDDLE THIRD WHITE RIGHT POINTING INDEX", "h" : "1FBC2"},
