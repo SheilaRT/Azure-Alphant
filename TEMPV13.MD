@@ -571,15 +571,25 @@ AB68 LATIN SMALL LETTER TURNED R WITH MIDDLE TILDE
 
 1FBF9 SEGMENTED DIGIT NINE
 
+#  emojiPic
+
+2B97 SYMBOL FOR TYPE A ELECTRONICS
+
+1F6D6 HUT
+
+1F6D7 ELEVATOR
+
+1F6FB PICKUP TRUCK
+
+1F6FC ROLLER SKATE
+
 ---
 
 ##Current block
 
-https://unicode.org/charts/PDF/Unicode-13.0/ (Miscellaneous Symbols and Arrows)
+https://unicode.org/charts/PDF/Unicode-13.0/ (Supplemental Symbols and Pictographs - 10)
 
 ##Blocks left to go
-
-. Miscellaneous Symbols and Arrows - 1
 
 . Ancient Symbols - 1
 
@@ -593,11 +603,7 @@ https://unicode.org/charts/PDF/Unicode-13.0/ (Miscellaneous Symbols and Arrows)
 
 . Enclosed Alphanumeric Supplement - 7
 
-. Transport and Map Symbols - 4
-
 . Supplemental Arrows-C - 2
-
-. Supplemental Symbols and Pictographs - 10
 
 . Symbols and Pictographs Extended-A - 41
 
