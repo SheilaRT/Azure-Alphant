@@ -303,6 +303,8 @@ var codepoints = [
 
 {"g" : "\u27BF", "n" : "DOUBLE CURLY LOOP", "h" : "27BF" },
 
+{"g" : "\u2B97", "n" : "SYMBOL FOR TYPE A ELECTRONICS", "h" : "2B97" },
+
 {"g" : "\u2BC9", "n" : "NEPTUNE FORM TWO", "h" : "2BC9" },
 
 {"g" : "\u2BD0", "n" : "SQUARE POSITION INDICATOR", "h" : "2BD0" },
