@@ -1309,6 +1309,8 @@ var codepoints = [
 {"g" : "\u{1F6D3}", "n" : "STUPA", "h" : "1F6D3"},
 {"g" : "\u{1F6D4}", "n" : "PAGODA", "h" : "1F6D4"},
 {"g" : "\u{1F6D5}", "n" : "HINDU TEMPLE", "h" : "1F6D5"},
+{"g" : "\u{1F6D6}", "n" : "HUT", "h" : "1F6D6"},
+{"g" : "\u{1F6D7}", "n" : "ELEVATOR", "h" : "1F6D7"},
 
 {"g" : "\u{1F6E0}", "n" : "HAMMER AND WRENCH", "h" : "1F6E0"},
 {"g" : "\u{1F6E1}", "n" : "SHIELD", "h" : "1F6E1"},
@@ -1335,6 +1337,8 @@ var codepoints = [
 {"g" : "\u{1F6F8}", "n" : "FLYING SAUCER", "h" : "1F6F8"},
 {"g" : "\u{1F6F9}", "n" : "SKATEBOARD", "h" : "1F6F9"},
 {"g" : "\u{1F6FA}", "n" : "AUTO RICKSHAW", "h" : "1F6FA"},
+{"g" : "\u{1F6FB}", "n" : "PICKUP TRUCK", "h" : "1F6FB"},
+{"g" : "\u{1F6FC}", "n" : "ROLLER SKATE", "h" : "1F6FC"},
 
 {"g" : "\u{1F700}", "n" : "ALCHEMICAL SYMBOL FOR QUINTESSENCE", "h" : "1F700"},
 {"g" : "\u{1F701}", "n" : "ALCHEMICAL SYMBOL FOR AIR", "h" : "1F701"},
@@ -1746,23 +1750,23 @@ var codepoints = [
     	var myPara1 = document.createElement('p');
     	var myPara2 = document.createElement('p');
     	var myPara3 = document.createElement('p');
-		  var myPara4 = document.createElement('p');
-		  var myPara5 = document.createElement('p');
-		  var myPara6 = document.createElement('p');
+	var myPara4 = document.createElement('p');
+	var myPara5 = document.createElement('p');
+	var myPara6 = document.createElement('p');
 
     	myPara1.textContent = glyph;
     	myPara2.textContent = name;
     	myPara3.textContent = 'U+' + hex;
-		  myPara4.textContent = '&#x' + hex + ';';
-		  myPara5.textContent = '&#' + parseInt(hex, 16) + ';';
-		  myPara6.textContent = '\\' + 'u' + hex;
+	myPara4.textContent = '&#x' + hex + ';';
+	myPara5.textContent = '&#' + parseInt(hex, 16) + ';';
+	myPara6.textContent = '\\' + 'u' + hex;
 
     	myArticle.appendChild(myPara1);
     	myArticle.appendChild(myPara2);
     	myArticle.appendChild(myPara3);
-		  myArticle.appendChild(myPara4);
-		  myArticle.appendChild(myPara5);
-		  myArticle.appendChild(myPara6);
+	myArticle.appendChild(myPara4);
+	myArticle.appendChild(myPara5);
+	myArticle.appendChild(myPara6);
 
     section.appendChild(myArticle);
   }
