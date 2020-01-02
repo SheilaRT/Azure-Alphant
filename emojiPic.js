@@ -1482,7 +1482,7 @@ var codepoints = [
 {"g" : "\u{1F909}", "n" : "DOWNWARD FACING NOTCHED HOOK", "h" : "1F909"},
 {"g" : "\u{1F90A}", "n" : "DOWNWARD FACING HOOK WITH DOT", "h" : "1F90A"},
 {"g" : "\u{1F90B}", "n" : "DOWNWARD FACING NOTCHED HOOK WITH DOT", "h" : "1F90B"},
-
+{"g" : "\u{1F90C}", "n" : "PINCHED FINGERS", "h" : "1F90C"},
 {"g" : "\u{1F90D}", "n" : "WHITE HEART", "h" : "1F90D"},
 {"g" : "\u{1F90E}", "n" : "BROWN HEART", "h" : "1F90E"},
 {"g" : "\u{1F90F}", "n" : "PINCHING HAND", "h" : "1F90F"},
@@ -1584,11 +1584,13 @@ var codepoints = [
 {"g" : "\u{1F96F}", "n" : "BAGEL", "h" : "1F96F"},
 {"g" : "\u{1F970}", "n" : "SMILING FACE WITH SMILING EYES AND THREE HEARTS", "h" : "1F970"},
 {"g" : "\u{1F971}", "n" : "YAWNING FACE", "h" : "1F971"},
-
+{"g" : "\u{1F972}", "n" : "SMILING FACE WITH TEAR", "h" : "1F972"},
 {"g" : "\u{1F973}", "n" : "FACE WITH PARTY HORN AND PARTY HAT", "h" : "1F973"},
 {"g" : "\u{1F974}", "n" : "FACE WITH UNEVEN EYES AND WAVY MOUTH", "h" : "1F974"},
 {"g" : "\u{1F975}", "n" : "OVERHEATED FACE", "h" : "1F975"},
 {"g" : "\u{1F976}", "n" : "FREEZING FACE", "h" : "1F976"},
+{"g" : "\u{1F977}", "n" : "NINJA", "h" : "1F977"},
+{"g" : "\u{1F978}", "n" : "DISGUISED FACE", "h" : "1F978"},
 
 {"g" : "\u{1F97A}", "n" : "FACE WITH PLEADING EYES", "h" : "1F97A"},
 {"g" : "\u{1F97B}", "n" : "SARI", "h" : "1F97B"},
@@ -1631,14 +1633,17 @@ var codepoints = [
 {"g" : "\u{1F9A0}", "n" : "MICROBE", "h" : "1F9A0"},
 {"g" : "\u{1F9A1}", "n" : "BADGER", "h" : "1F9A1"},
 {"g" : "\u{1F9A2}", "n" : "SWAN", "h" : "1F9A2"},
-
+{"g" : "\u{1F9A3}", "n" : "MAMMOTH", "h" : "1F9A3"},
+{"g" : "\u{1F9A4}", "n" : "DODO", "h" : "1F9A4"},
 {"g" : "\u{1F9A5}", "n" : "SLOTH", "h" : "1F9A5"},
 {"g" : "\u{1F9A6}", "n" : "OTTER", "h" : "1F9A6"},
 {"g" : "\u{1F9A7}", "n" : "ORANGUTAN", "h" : "1F9A7"},
 {"g" : "\u{1F9A8}", "n" : "SKUNK", "h" : "1F9A8"},
 {"g" : "\u{1F9A9}", "n" : "FLAMINGO", "h" : "1F9A9"},
 {"g" : "\u{1F9AA}", "n" : "OYSTER", "h" : "1F9AA"},
-
+{"g" : "\u{1F9AB}", "n" : "BEAVER", "h" : "1F9AB"},
+{"g" : "\u{1F9AC}", "n" : "BISON", "h" : "1F9AC"},
+{"g" : "\u{1F9AD}", "n" : "SEAL", "h" : "1F9AD"},
 {"g" : "\u{1F9AE}", "n" : "GUIDE DOG", "h" : "1F9AE"},
 {"g" : "\u{1F9AF}", "n" : "PROBING CANE", "h" : "1F9AF"},
 {"g" : "\u{1F9B0}", "n" : "EMOJI COMPONENT RED HAIR", "h" : "1F9B0"},
@@ -1668,6 +1673,7 @@ var codepoints = [
 {"g" : "\u{1F9C8}", "n" : "BUTTER", "h" : "1F9C8"},
 {"g" : "\u{1F9C9}", "n" : "MATE DRINK", "h" : "1F9C9"},
 {"g" : "\u{1F9CA}", "n" : "ICE CUBE", "h" : "1F9CA"},
+{"g" : "\u{1F9CB}", "n" : "BUBBLE TEA", "h" : "1F9CB"},
 
 {"g" : "\u{1F9CD}", "n" : "STANDING PERSON", "h" : "1F9CD"},
 {"g" : "\u{1F9CE}", "n" : "KNEELING PERSON", "h" : "1F9CE"},
