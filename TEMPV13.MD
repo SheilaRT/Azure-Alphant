@@ -128,6 +128,8 @@ A7F6 LATIN SMALL LETTER REVERSED HALF H
 
 AB68 LATIN SMALL LETTER TURNED R WITH MIDDLE TILDE
 
+1019C ASCIA SYMBOL
+
 #  punctuation
 
 2E50 CROSS PATTY WITH RIGHT CROSSBAR
@@ -687,15 +689,15 @@ AB68 LATIN SMALL LETTER TURNED R WITH MIDDLE TILDE
 
 ---
 
-##Current block
+## Current block
 
-https://unicode.org/charts/PDF/Unicode-13.0/U130-1FA70.pdf (Symbols and Pictographs Extended-A - 41)
+https://unicode.org/charts/PDF/Unicode-13.0/U130-1F100.pdf (Enclosed Alphanumeric Supplement - 7)
 
-##Next block
+## Next block
 
-. Ancient Symbols - 1 (europe)
+Supplemental Arrows-C - 2
 
-##Blocks left to go
+## Blocks left to go
 
 . Yezidi - 47*
 
@@ -704,10 +706,6 @@ https://unicode.org/charts/PDF/Unicode-13.0/U130-1FA70.pdf (Symbols and Pictogra
 . Dives Akuru - 72*
 
 . Khitan Small Script - 470*
-
-. Enclosed Alphanumeric Supplement - 7
-
-. Supplemental Arrows-C - 2
 
 ---
 
