@@ -3023,6 +3023,7 @@ var codepoints = [
 {"g" : "\u{10199}", "n" : "ROMAN DUPONDIUS SIGN", "h" : "10199"},
 {"g" : "\u{1019A}", "n" : "ROMAN AS SIGN", "h" : "1019A"},
 {"g" : "\u{1019B}", "n" : "ROMAN CENTURIAL SIGN", "h" : "1019B"},
+{"g" : "\u{1019C}", "n" : "ASCIA SYMBOL", "h" : "1019C"},
 
 {"g" : "\u{101A0}", "n" : "GREEK SYMBOL TAU RHO", "h" : "101A0"},
 
