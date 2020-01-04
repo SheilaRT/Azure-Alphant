@@ -451,6 +451,9 @@ var codepoints = [
 
 {"g" : "\u{16FE4}", "n" : "KHITAN SMALL SCRIPT FILLER", "h" : "16FE4"},
 
+{"g" : "\u{1F8B0}", "n" : "ARROW POINTING UPWARDS THEN NORTH WEST", "h" : "1F8B0"},
+{"g" : "\u{1F8B1}", "n" : "ARROW POINTING RIGHTWARDS THEN CURVING SOUTH WEST", "h" : "1F8B1"},
+
 {"g" : "\u{1FB00}", "n" : "BLOCK SEXTANT-1", "h" : "1FB00"},
 {"g" : "\u{1FB01}", "n" : "BLOCK SEXTANT-2", "h" : "1FB01"},
 {"g" : "\u{1FB02}", "n" : "BLOCK SEXTANT-12", "h" : "1FB02"},
