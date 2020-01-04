@@ -3626,7 +3626,9 @@ var codepoints = [
 {"g" : "\u{1F10A}", "n" : "DIGIT NINE COMMA", "h" : "1F10A"},
 {"g" : "\u{1F10B}", "n" : "DINGBAT CIRCLED SANS-SERIF DIGIT ZERO", "h" : "1F10B"},
 {"g" : "\u{1F10C}", "n" : "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT ZERO", "h" : "1F10C"},
-
+{"g" : "\u{1F10D}", "n" : "CIRCLED ZERO WITH SLASH", "h" : "1F10D"},
+{"g" : "\u{1F10E}", "n" : "CIRCLED ANTICLOCKWISE ARROW", "h" : "1F10E"},
+{"g" : "\u{1F10F}", "n" : "CIRCLED DOLLAR SIGN WITH OVERLAID BACKSLASH", "h" : "1F10F"},
 {"g" : "\u{1F110}", "n" : "PARENTHESIZED LATIN CAPITAL LETTER A", "h" : "1F110"},
 {"g" : "\u{1F111}", "n" : "PARENTHESIZED LATIN CAPITAL LETTER B", "h" : "1F111"},
 {"g" : "\u{1F112}", "n" : "PARENTHESIZED LATIN CAPITAL LETTER C", "h" : "1F112"},
@@ -3720,7 +3722,9 @@ var codepoints = [
 {"g" : "\u{1F16A}", "n" : "RAISED MC SIGN", "h" : "1F16A"},
 {"g" : "\u{1F16B}", "n" : "RAISED MD SIGN", "h" : "1F16B"},
 {"g" : "\u{1F16C}", "n" : "RAISED MR SIGN", "h" : "1F16C"},
-
+{"g" : "\u{1F16D}", "n" : "CIRCLED CC", "h" : "1F16D"},
+{"g" : "\u{1F16E}", "n" : "CIRCLED C WITH OVERLAID BACKSLASH", "h" : "1F16E"},
+{"g" : "\u{1F16F}", "n" : "CIRCLED HUMAN FIGURE", "h" : "1F16F"},
 {"g" : "\u{1F170}", "n" : "NEGATIVE SQUARED LATIN CAPITAL LETTER A", "h" : "1F170"},
 {"g" : "\u{1F171}", "n" : "NEGATIVE SQUARED LATIN CAPITAL LETTER B", "h" : "1F171"},
 {"g" : "\u{1F172}", "n" : "NEGATIVE SQUARED LATIN CAPITAL LETTER C", "h" : "1F172"},
@@ -3782,6 +3786,7 @@ var codepoints = [
 {"g" : "\u{1F1AA}", "n" : "SQUARED SHV", "h" : "1F1AA"},
 {"g" : "\u{1F1AB}", "n" : "SQUARED UHD", "h" : "1F1AB"},
 {"g" : "\u{1F1AC}", "n" : "SQUARED VOD", "h" : "1F1AC"},
+{"g" : "\u{1F1AD}", "n" : "MASK WORK SYMBOL", "h" : "1F1AD"},
 
 {"g" : "\u{1F1E6}", "n" : "REGIONAL INDICATOR SYMBOL LETTER A", "h" : "1F1E6"},
 {"g" : "\u{1F1E7}", "n" : "REGIONAL INDICATOR SYMBOL LETTER B", "h" : "1F1E7"},
