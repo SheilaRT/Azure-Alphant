@@ -804,15 +804,15 @@ _Numbers_
 #### Dives Akuru - 72*
 
 _Independent vowels_
-11900 DIVES AKURU LETTER A
-11901 DIVES AKURU LETTER AA
-11902 DIVES AKURU LETTER I
-11903 DIVES AKURU LETTER II
-11904 DIVES AKURU LETTER U
-11905 DIVES AKURU LETTER UU
-11906 DIVES AKURU LETTER E
+{"g" : "\u11900", "n" : "DIVES AKURU LETTER A", "h" : "11900"},
+{"g" : "\u11901", "n" : "DIVES AKURU LETTER AA", "h" : "11901"},
+{"g" : "\u11902", "n" : "DIVES AKURU LETTER I", "h" : "11902"},
+{"g" : "\u11903", "n" : "DIVES AKURU LETTER II", "h" : "11903"},
+{"g" : "\u11904", "n" : "DIVES AKURU LETTER U", "h" : "11904"},
+{"g" : "\u11905", "n" : "DIVES AKURU LETTER UU", "h" : "11905"},
+{"g" : "\u11906", "n" : "DIVES AKURU LETTER E", "h" : "11906"},
 
-11909 𑤉 DIVES AKURU LETTER O
+{"g" : "\u11909", "n" : "11909 DIVES AKURU LETTER O", "h" : "11909"},
 
 _Consonants_
 1190C DIVES AKURU LETTER KA
