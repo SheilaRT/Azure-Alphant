@@ -724,6 +724,9 @@ AB6A MODIFIER LETTER LEFT TACK
 
 AB6B MODIFIER LETTER RIGHT TACK
 
+{"g" : "\u10EAB", "n" : "YEZIDI COMBINING HAMZA MARK", "h" : "10EAB"},
+{"g" : "\u10EAC", "n" : "YEZIDI COMBINING MADDA MARK", "h" : "10EAC"},
+
 #  europe
 
 A7C7 LATIN CAPITAL LETTER D WITH SHORT STROKE OVERLAY
@@ -1326,15 +1329,7 @@ AB68 LATIN SMALL LETTER TURNED R WITH MIDDLE TILDE
 
 ---
 
-## New blocks left to go
-
-_Yezidi - 47_
-
-_Combining marks_
-{"g" : "\u10EAB", "n" : "YEZIDI COMBINING HAMZA MARK", "h" : "10EAB"},
-{"g" : "\u10EAC", "n" : "YEZIDI COMBINING MADDA MARK", "h" : "10EAC"},
-
----
+## Statistics, Charts, and Announcement
 
 5,930 new characters total (147)
 
