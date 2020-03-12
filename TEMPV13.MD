@@ -87,8 +87,6 @@
 {"g" : "\u10FC2", "n" : "CHORASMIAN LETTER RESH", "h" : "10FC2"},
 {"g" : "\u10FC3", "n" : "CHORASMIAN LETTER SHIN", "h" : "10FC3"},
 {"g" : "\u10FC4", "n" : "CHORASMIAN LETTER TAW", "h" : "10FC4"},
-
-_Numbers_
 {"g" : "\u10FC5", "n" : "CHORASMIAN NUMBER ONE", "h" : "10FC5"},
 {"g" : "\u10FC6", "n" : "CHORASMIAN NUMBER TWO", "h" : "10FC6"},
 {"g" : "\u10FC7", "n" : "CHORASMIAN NUMBER THREE", "h" : "10FC7"},
@@ -752,6 +750,12 @@ AB68 LATIN SMALL LETTER TURNED R WITH MIDDLE TILDE
 
 2E52 TIRONIAN SIGN CAPITAL ET
 
+{"g" : "\u10EAD", "n" : "YEZIDI HYPHENATION MARK", "h" : "10EAD"},
+
+{"g" : "\u11944", "n" : "DIVES AKURU DOUBLE DANDA", "h" : "11944"},
+{"g" : "\u11945", "n" : "DIVES AKURU GAP FILLER", "h" : "11945"},
+{"g" : "\u11946", "n" : "DIVES AKURU END OF TEXT MARK", "h" : "11946"},
+
 16FF0 VIETNAMESE ALTERNATE READING MARK CA
 
 16FF1 VIETNAMESE ALTERNATE READING MARK NHAY
@@ -1324,23 +1328,11 @@ AB68 LATIN SMALL LETTER TURNED R WITH MIDDLE TILDE
 
 ## New blocks left to go
 
-(Future placement within the app is still unknown)
-
-#### Yezidi - 47*
+_Yezidi - 47_
 
 _Combining marks_
 {"g" : "\u10EAB", "n" : "YEZIDI COMBINING HAMZA MARK", "h" : "10EAB"},
 {"g" : "\u10EAC", "n" : "YEZIDI COMBINING MADDA MARK", "h" : "10EAC"},
-
-_Punctuation_
-{"g" : "\u10EAD", "n" : "YEZIDI HYPHENATION MARK", "h" : "10EAD"},
-
-#### Dives Akuru - 72*
-
-_Punctuation_
-{"g" : "\u11944", "n" : "DIVES AKURU DOUBLE DANDA", "h" : "11944"},
-{"g" : "\u11945", "n" : "DIVES AKURU GAP FILLER", "h" : "11945"},
-{"g" : "\u11946", "n" : "DIVES AKURU END OF TEXT MARK", "h" : "11946"},
 
 ---
 
