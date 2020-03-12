@@ -551,6 +551,9 @@ var codepoints = [
 {"g" : "\u{10378}", "n" : "COMBINING OLD PERMIC LETTER ZATA", "h" : "10378"},
 {"g" : "\u{10379}", "n" : "COMBINING OLD PERMIC LETTER NENOE", "h" : "10379"},
 {"g" : "\u{1037A}", "n" : "COMBINING OLD PERMIC LETTER SII", "h" : "1037A"},
+	
+{"g" : "\u{10EAB}", "n" : "YEZIDI COMBINING HAMZA MARK", "h" : "10EAB"},
+{"g" : "\u{10EAC}", "n" : "YEZIDI COMBINING MADDA MARK", "h" : "10EAC"},
 
 {"g" : "\u{1E000}", "n" : "COMBINING GLAGOLITIC LETTER AZU", "h" : "1E000"},
 {"g" : "\u{1E001}", "n" : "COMBINING GLAGOLITIC LETTER BUKY", "h" : "1E001"},
