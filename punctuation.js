@@ -477,6 +477,12 @@ var codepoints = [
 {"g" : "\u{10B3D}", "n" : "LARGE ONE DOT OVER TWO DOTS PUNCTUATION", "h" : "10B3D"},
 {"g" : "\u{10B3E}", "n" : "LARGE TWO RINGS OVER ONE RING PUNCTUATION", "h" : "10B3E"},
 {"g" : "\u{10B3F}", "n" : "LARGE ONE RING OVER TWO RINGS PUNCTUATION", "h" : "10B3F"},
+    
+{"g" : "\u{10EAD}", "n" : "YEZIDI HYPHENATION MARK", "h" : "10EAD"},
+    
+{"g" : "\u{11944}", "n" : "DIVES AKURU DOUBLE DANDA", "h" : "11944"},
+{"g" : "\u{11945}", "n" : "DIVES AKURU GAP FILLER", "h" : "11945"},
+{"g" : "\u{11946}", "n" : "DIVES AKURU END OF TEXT MARK", "h" : "11946"},
 
 {"g" : "\u{16FE0}", "n" : "TANGUT ITERATION MARK", "h" : "16FE0"},
 {"g" : "\u{16FE1}", "n" : "NUSHU ITERATION MARK", "h" : "16FE1"},
