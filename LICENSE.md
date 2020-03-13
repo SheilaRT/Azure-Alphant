@@ -2,7 +2,7 @@ All character names are official character names and code points, listed as part
 
 For more information, see [UNICODE, INC. LICENSE AGREEMENT - DATA FILES AND SOFTWARE](https://www.unicode.org/license.html) and [Unicode® Copyright and Terms of Use](http://www.unicode.org/copyright.html)
 
-Azure Alphant image copyright © Sheila Tanner 2013-2019, All rights reserved
+Azure Alphant image copyright © Sheila Tanner 2013-2020, All rights reserved
 
 All else in this repo is [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
 
