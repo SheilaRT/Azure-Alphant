@@ -4,95 +4,21 @@ _no changes from draft_
 
 #  southAsia
 
-0B55 ORIYA SIGN OVERLINE
-
-0D04 MALAYALAM LETTER VEDIC ANUSVARA
-
-0D81 SINHALA SIGN CANDRABINDU
-
-A82C SYLOTI NAGRI SIGN ALTERNATE HASANTA
-
-11147 CHAKMA LETTER VAA
-
-111CE SHARADA VOWEL SIGN PRISHTHAMATRA E
-
-111CF SHARADA SIGN INVERTED CANDRABINDU
-
-1145A NEWA DOUBLE COMMA
-
-11460 NEWA SIGN JIHVAMULIYA
-
-11461 NEWA SIGN UPADHMANIYA
-
-{"g" : "\u11900", "n" : "DIVES AKURU LETTER A", "h" : "11900"},
-{"g" : "\u11901", "n" : "DIVES AKURU LETTER AA", "h" : "11901"},
-{"g" : "\u11902", "n" : "DIVES AKURU LETTER I", "h" : "11902"},
-{"g" : "\u11903", "n" : "DIVES AKURU LETTER II", "h" : "11903"},
-{"g" : "\u11904", "n" : "DIVES AKURU LETTER U", "h" : "11904"},
-{"g" : "\u11905", "n" : "DIVES AKURU LETTER UU", "h" : "11905"},
-{"g" : "\u11906", "n" : "DIVES AKURU LETTER E", "h" : "11906"},
-
-{"g" : "\u11909", "n" : "DIVES AKURU LETTER O", "h" : "11909"},
-
-{"g" : "\u1190C", "n" : "DIVES AKURU LETTER KA", "h" : "1190C"},
-{"g" : "\u1190D", "n" : "DIVES AKURU LETTER KHA", "h" : "1190D"},
-{"g" : "\u1190E", "n" : "DIVES AKURU LETTER GA", "h" : "1190E"},
-{"g" : "\u1190F", "n" : "DIVES AKURU LETTER GHA", "h" : "1190F"},
-{"g" : "\u11910", "n" : "DIVES AKURU LETTER NGA", "h" : "11910"},
-{"g" : "\u11911", "n" : "DIVES AKURU LETTER CA", "h" : "11911"},
-{"g" : "\u11912", "n" : "DIVES AKURU LETTER CHA", "h" : "11912"},
-{"g" : "\u11913", "n" : "DIVES AKURU LETTER JA", "h" : "11913"},
-
-{"g" : "\u11915", "n" : "DIVES AKURU LETTER NYA", "h" : "11915"},
-{"g" : "\u11916", "n" : "DIVES AKURU LETTER TTA", "h" : "11916"},
-
-{"g" : "\u11918", "n" : "DIVES AKURU LETTER DDA", "h" : "11918"},
-{"g" : "\u11919", "n" : "DIVES AKURU LETTER DDHA", "h" : "11919"},
-{"g" : "\u1191A", "n" : "DIVES AKURU LETTER NNA", "h" : "1191A"},
-{"g" : "\u1191B", "n" : "DIVES AKURU LETTER TA", "h" : "1191B"},
-{"g" : "\u1191C", "n" : "DIVES AKURU LETTER THA", "h" : "1191C"},
-{"g" : "\u1191D", "n" : "DIVES AKURU LETTER DA", "h" : "1191D"},
-{"g" : "\u1191E", "n" : "DIVES AKURU LETTER DHA", "h" : "1191E"},
-{"g" : "\u1191F", "n" : "DIVES AKURU LETTER NA", "h" : "1191F"},
-{"g" : "\u11920", "n" : "DIVES AKURU LETTER PA", "h" : "11920"},
-{"g" : "\u11921", "n" : "DIVES AKURU LETTER PHA", "h" : "11921"},
-{"g" : "\u11922", "n" : "DIVES AKURU LETTER BA", "h" : "11922"},
-{"g" : "\u11923", "n" : "DIVES AKURU LETTER BHA", "h" : "11923"},
-{"g" : "\u11924", "n" : "DIVES AKURU LETTER MA", "h" : "11924"},
-{"g" : "\u11925", "n" : "DIVES AKURU LETTER YA", "h" : "11925"},
-{"g" : "\u11926", "n" : "DIVES AKURU LETTER YYA", "h" : "11926"},
-{"g" : "\u11927", "n" : "DIVES AKURU LETTER RA", "h" : "11927"},
-{"g" : "\u11928", "n" : "DIVES AKURU LETTER LA", "h" : "11928"},
-{"g" : "\u11929", "n" : "DIVES AKURU LETTER VA", "h" : "11929"},
-{"g" : "\u1192A", "n" : "DIVES AKURU LETTER SHA", "h" : "1192A"},
-{"g" : "\u1192B", "n" : "DIVES AKURU LETTER SSA", "h" : "1192B"},
-{"g" : "\u1192C", "n" : "DIVES AKURU LETTER SA", "h" : "1192C"},
-{"g" : "\u1192D", "n" : "DIVES AKURU LETTER HA", "h" : "1192D"},
-{"g" : "\u1192E", "n" : "DIVES AKURU LETTER LLA", "h" : "1192E"},
-{"g" : "\u1192F", "n" : "DIVES AKURU LETTER ZA", "h" : "1192F"},
-{"g" : "\u11930", "n" : "DIVES AKURU VOWEL SIGN AA", "h" : "11930"},
-{"g" : "\u11931", "n" : "DIVES AKURU VOWEL SIGN I", "h" : "11931"},
-{"g" : "\u11932", "n" : "DIVES AKURU VOWEL SIGN II", "h" : "11932"},
-{"g" : "\u11933", "n" : "DIVES AKURU VOWEL SIGN U", "h" : "11933"},
-{"g" : "\u11934", "n" : "DIVES AKURU VOWEL SIGN UU", "h" : "11934"},
-{"g" : "\u11935", "n" : "DIVES AKURU VOWEL SIGN E", "h" : "11935"},
-
-{"g" : "\u11937", "n" : "DIVES AKURU VOWEL SIGN AI", "h" : "11937"},
-{"g" : "\u11938", "n" : "DIVES AKURU VOWEL SIGN O", "h" : "11938"},
-
-{"g" : "\u1193B", "n" : "DIVES AKURU SIGN ANUSVARA", "h" : "1193B"},
-{"g" : "\u1193C", "n" : "DIVES AKURU SIGN CANDRABINDU", "h" : "1193C"},
-{"g" : "\u1193D", "n" : "DIVES AKURU SIGN HALANTA", "h" : "1193D"},
-{"g" : "\u1193E", "n" : "DIVES AKURU VIRAMA", "h" : "1193E"},
-{"g" : "\u1193F", "n" : "DIVES AKURU PREFIXED NASAL SIGN", "h" : "1193F"},
-{"g" : "\u11940", "n" : "DIVES AKURU MEDIAL YA", "h" : "11940"},
-{"g" : "\u11941", "n" : "DIVES AKURU INITIAL RA", "h" : "11941"},
-{"g" : "\u11942", "n" : "DIVES AKURU MEDIAL RA", "h" : "11942"},
-{"g" : "\u11943", "n" : "DIVES AKURU SIGN NUKTA", "h" : "11943"},
+_new digits_
+11950 DIVES AKURU DIGIT ZERO
+11951 DIVES AKURU DIGIT ONE
+11952 DIVES AKURU DIGIT TWO
+11953 DIVES AKURU DIGIT THREE
+11954 DIVES AKURU DIGIT FOUR
+11955 DIVES AKURU DIGIT FIVE
+11956 DIVES AKURU DIGIT SIX
+11957 DIVES AKURU DIGIT SEVEN
+11958 DIVES AKURU DIGIT EIGHT
+11959 DIVES AKURU DIGIT NINE
 
 #  cjkExtACDEF
 
-4DB6-4DBF
+_no changes from draft_
 
 #  cjkOth
 
