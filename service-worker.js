@@ -24,6 +24,8 @@ const staticAssets=[
     './cjkExtACDEF.js'
     './cjkExtB.html'
     './cjkExtB.js'
+    './cjkExtG.html'
+    './cjkExtG.js'
     './cjkOth.html'
     './cjkOth.js'
     './combineMod.html'
