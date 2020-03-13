@@ -1,7 +1,3 @@
-# Changes
-
----
-
 ## Statistics, Charts, and Announcement
 
 x new characters total
