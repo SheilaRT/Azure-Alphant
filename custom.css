@@ -13,7 +13,8 @@
   --linear-center:#101088;
   --baseline:#0001;
   --key-text:#CCC;
-}  
+}
+body{content-visibility:auto;contain-intrinsic-size:1px 5000px;}
 body,article,summary,div.menu::before,span,article a,form,input,button,p.load,*{color:var(--color-basic);}
 div.menu a:link,div.menu a:visited,a.u:link,a.u:visited,a.ad:link,a.ad:visited{color:var(--color-visit);}
 div.menu a:hover,div.menu a:active,a.u:hover,a.u:active,a.ad:hover,a.ad:active{color:var(--color-active);}
